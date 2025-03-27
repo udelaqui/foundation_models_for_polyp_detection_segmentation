@@ -1,2 +1,5 @@
 # foundation_models_for_polyp_detection_segmentation
-Git repository for "Beyond Traditional AI: Foundation Models Improving Polyp Detection &amp; Segmentation" article. Holds supplementary and supporting material
+Git repository for "AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models" article. Holds supplementary and supporting material
+
+Split folder includes de json files of the train, test and validation sets of each of the datasets in use: PICCOLO public dataset, PolypSegm-ASH and SUN-SEG.
+
