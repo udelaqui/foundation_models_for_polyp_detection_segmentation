@@ -1,0 +1,3944 @@
+{
+    "images": [
+        {
+            "id": "255",
+            "image": "dataset/train/polyps/255.tif",
+            "masks": "dataset/train/masks/255.tif"
+        },
+        {
+            "id": "418",
+            "image": "dataset/train/polyps/418.tif",
+            "masks": "dataset/train/masks/418.tif"
+        },
+        {
+            "id": "173",
+            "image": "dataset/train/polyps/173.tif",
+            "masks": "dataset/train/masks/173.tif"
+        },
+        {
+            "id": "21",
+            "image": "dataset/train/polyps/21.tif",
+            "masks": "dataset/train/masks/21.tif"
+        },
+        {
+            "id": "196",
+            "image": "dataset/train/polyps/196.tif",
+            "masks": "dataset/train/masks/196.tif"
+        },
+        {
+            "id": "465",
+            "image": "dataset/train/polyps/465.tif",
+            "masks": "dataset/train/masks/465.tif"
+        },
+        {
+            "id": "608",
+            "image": "dataset/train/polyps/608.tif",
+            "masks": "dataset/train/masks/608.tif"
+        },
+        {
+            "id": "80",
+            "image": "dataset/train/polyps/80.tif",
+            "masks": "dataset/train/masks/80.tif"
+        },
+        {
+            "id": "266",
+            "image": "dataset/train/polyps/266.tif",
+            "masks": "dataset/train/masks/266.tif"
+        },
+        {
+            "id": "589",
+            "image": "dataset/train/polyps/589.tif",
+            "masks": "dataset/train/masks/589.tif"
+        },
+        {
+            "id": "676",
+            "image": "dataset/train/polyps/676.tif",
+            "masks": "dataset/train/masks/676.tif"
+        },
+        {
+            "id": "29",
+            "image": "dataset/train/polyps/29.tif",
+            "masks": "dataset/train/masks/29.tif"
+        },
+        {
+            "id": "277",
+            "image": "dataset/train/polyps/277.tif",
+            "masks": "dataset/train/masks/277.tif"
+        },
+        {
+            "id": "135",
+            "image": "dataset/train/polyps/135.tif",
+            "masks": "dataset/train/masks/135.tif"
+        },
+        {
+            "id": "641",
+            "image": "dataset/train/polyps/641.tif",
+            "masks": "dataset/train/masks/641.tif"
+        },
+        {
+            "id": "722",
+            "image": "dataset/train/polyps/722.tif",
+            "masks": "dataset/train/masks/722.tif"
+        },
+        {
+            "id": "294",
+            "image": "dataset/train/polyps/294.tif",
+            "masks": "dataset/train/masks/294.tif"
+        },
+        {
+            "id": "504",
+            "image": "dataset/train/polyps/504.tif",
+            "masks": "dataset/train/masks/504.tif"
+        },
+        {
+            "id": "280",
+            "image": "dataset/train/polyps/280.tif",
+            "masks": "dataset/train/masks/280.tif"
+        },
+        {
+            "id": "502",
+            "image": "dataset/train/polyps/502.tif",
+            "masks": "dataset/train/masks/502.tif"
+        },
+        {
+            "id": "229",
+            "image": "dataset/train/polyps/229.tif",
+            "masks": "dataset/train/masks/229.tif"
+        },
+        {
+            "id": "57",
+            "image": "dataset/train/polyps/57.tif",
+            "masks": "dataset/train/masks/57.tif"
+        },
+        {
+            "id": "705",
+            "image": "dataset/train/polyps/705.tif",
+            "masks": "dataset/train/masks/705.tif"
+        },
+        {
+            "id": "562",
+            "image": "dataset/train/polyps/562.tif",
+            "masks": "dataset/train/masks/562.tif"
+        },
+        {
+            "id": "157",
+            "image": "dataset/train/polyps/157.tif",
+            "masks": "dataset/train/masks/157.tif"
+        },
+        {
+            "id": "302",
+            "image": "dataset/train/polyps/302.tif",
+            "masks": "dataset/train/masks/302.tif"
+        },
+        {
+            "id": "499",
+            "image": "dataset/train/polyps/499.tif",
+            "masks": "dataset/train/masks/499.tif"
+        },
+        {
+            "id": "81",
+            "image": "dataset/train/polyps/81.tif",
+            "masks": "dataset/train/masks/81.tif"
+        },
+        {
+            "id": "714",
+            "image": "dataset/train/polyps/714.tif",
+            "masks": "dataset/train/masks/714.tif"
+        },
+        {
+            "id": "320",
+            "image": "dataset/train/polyps/320.tif",
+            "masks": "dataset/train/masks/320.tif"
+        },
+        {
+            "id": "146",
+            "image": "dataset/train/polyps/146.tif",
+            "masks": "dataset/train/masks/146.tif"
+        },
+        {
+            "id": "117",
+            "image": "dataset/train/polyps/117.tif",
+            "masks": "dataset/train/masks/117.tif"
+        },
+        {
+            "id": "74",
+            "image": "dataset/train/polyps/74.tif",
+            "masks": "dataset/train/masks/74.tif"
+        },
+        {
+            "id": "735",
+            "image": "dataset/train/polyps/735.tif",
+            "masks": "dataset/train/masks/735.tif"
+        },
+        {
+            "id": "772",
+            "image": "dataset/train/polyps/772.tif",
+            "masks": "dataset/train/masks/772.tif"
+        },
+        {
+            "id": "625",
+            "image": "dataset/train/polyps/625.tif",
+            "masks": "dataset/train/masks/625.tif"
+        },
+        {
+            "id": "455",
+            "image": "dataset/train/polyps/455.tif",
+            "masks": "dataset/train/masks/455.tif"
+        },
+        {
+            "id": "240",
+            "image": "dataset/train/polyps/240.tif",
+            "masks": "dataset/train/masks/240.tif"
+        },
+        {
+            "id": "394",
+            "image": "dataset/train/polyps/394.tif",
+            "masks": "dataset/train/masks/394.tif"
+        },
+        {
+            "id": "77",
+            "image": "dataset/train/polyps/77.tif",
+            "masks": "dataset/train/masks/77.tif"
+        },
+        {
+            "id": "531",
+            "image": "dataset/train/polyps/531.tif",
+            "masks": "dataset/train/masks/531.tif"
+        },
+        {
+            "id": "559",
+            "image": "dataset/train/polyps/559.tif",
+            "masks": "dataset/train/masks/559.tif"
+        },
+        {
+            "id": "516",
+            "image": "dataset/train/polyps/516.tif",
+            "masks": "dataset/train/masks/516.tif"
+        },
+        {
+            "id": "337",
+            "image": "dataset/train/polyps/337.tif",
+            "masks": "dataset/train/masks/337.tif"
+        },
+        {
+            "id": "164",
+            "image": "dataset/train/polyps/164.tif",
+            "masks": "dataset/train/masks/164.tif"
+        },
+        {
+            "id": "436",
+            "image": "dataset/train/polyps/436.tif",
+            "masks": "dataset/train/masks/436.tif"
+        },
+        {
+            "id": "420",
+            "image": "dataset/train/polyps/420.tif",
+            "masks": "dataset/train/masks/420.tif"
+        },
+        {
+            "id": "282",
+            "image": "dataset/train/polyps/282.tif",
+            "masks": "dataset/train/masks/282.tif"
+        },
+        {
+            "id": "548",
+            "image": "dataset/train/polyps/548.tif",
+            "masks": "dataset/train/masks/548.tif"
+        },
+        {
+            "id": "210",
+            "image": "dataset/train/polyps/210.tif",
+            "masks": "dataset/train/masks/210.tif"
+        },
+        {
+            "id": "248",
+            "image": "dataset/train/polyps/248.tif",
+            "masks": "dataset/train/masks/248.tif"
+        },
+        {
+            "id": "368",
+            "image": "dataset/train/polyps/368.tif",
+            "masks": "dataset/train/masks/368.tif"
+        },
+        {
+            "id": "473",
+            "image": "dataset/train/polyps/473.tif",
+            "masks": "dataset/train/masks/473.tif"
+        },
+        {
+            "id": "620",
+            "image": "dataset/train/polyps/620.tif",
+            "masks": "dataset/train/masks/620.tif"
+        },
+        {
+            "id": "599",
+            "image": "dataset/train/polyps/599.tif",
+            "masks": "dataset/train/masks/599.tif"
+        },
+        {
+            "id": "407",
+            "image": "dataset/train/polyps/407.tif",
+            "masks": "dataset/train/masks/407.tif"
+        },
+        {
+            "id": "232",
+            "image": "dataset/train/polyps/232.tif",
+            "masks": "dataset/train/masks/232.tif"
+        },
+        {
+            "id": "618",
+            "image": "dataset/train/polyps/618.tif",
+            "masks": "dataset/train/masks/618.tif"
+        },
+        {
+            "id": "234",
+            "image": "dataset/train/polyps/234.tif",
+            "masks": "dataset/train/masks/234.tif"
+        },
+        {
+            "id": "28",
+            "image": "dataset/train/polyps/28.tif",
+            "masks": "dataset/train/masks/28.tif"
+        },
+        {
+            "id": "32",
+            "image": "dataset/train/polyps/32.tif",
+            "masks": "dataset/train/masks/32.tif"
+        },
+        {
+            "id": "71",
+            "image": "dataset/train/polyps/71.tif",
+            "masks": "dataset/train/masks/71.tif"
+        },
+        {
+            "id": "321",
+            "image": "dataset/train/polyps/321.tif",
+            "masks": "dataset/train/masks/321.tif"
+        },
+        {
+            "id": "603",
+            "image": "dataset/train/polyps/603.tif",
+            "masks": "dataset/train/masks/603.tif"
+        },
+        {
+            "id": "26",
+            "image": "dataset/train/polyps/26.tif",
+            "masks": "dataset/train/masks/26.tif"
+        },
+        {
+            "id": "259",
+            "image": "dataset/train/polyps/259.tif",
+            "masks": "dataset/train/masks/259.tif"
+        },
+        {
+            "id": "153",
+            "image": "dataset/train/polyps/153.tif",
+            "masks": "dataset/train/masks/153.tif"
+        },
+        {
+            "id": "514",
+            "image": "dataset/train/polyps/514.tif",
+            "masks": "dataset/train/masks/514.tif"
+        },
+        {
+            "id": "452",
+            "image": "dataset/train/polyps/452.tif",
+            "masks": "dataset/train/masks/452.tif"
+        },
+        {
+            "id": "653",
+            "image": "dataset/train/polyps/653.tif",
+            "masks": "dataset/train/masks/653.tif"
+        },
+        {
+            "id": "640",
+            "image": "dataset/train/polyps/640.tif",
+            "masks": "dataset/train/masks/640.tif"
+        },
+        {
+            "id": "53",
+            "image": "dataset/train/polyps/53.tif",
+            "masks": "dataset/train/masks/53.tif"
+        },
+        {
+            "id": "18",
+            "image": "dataset/train/polyps/18.tif",
+            "masks": "dataset/train/masks/18.tif"
+        },
+        {
+            "id": "4",
+            "image": "dataset/train/polyps/4.tif",
+            "masks": "dataset/train/masks/4.tif"
+        },
+        {
+            "id": "20",
+            "image": "dataset/train/polyps/20.tif",
+            "masks": "dataset/train/masks/20.tif"
+        },
+        {
+            "id": "328",
+            "image": "dataset/train/polyps/328.tif",
+            "masks": "dataset/train/masks/328.tif"
+        },
+        {
+            "id": "86",
+            "image": "dataset/train/polyps/86.tif",
+            "masks": "dataset/train/masks/86.tif"
+        },
+        {
+            "id": "303",
+            "image": "dataset/train/polyps/303.tif",
+            "masks": "dataset/train/masks/303.tif"
+        },
+        {
+            "id": "743",
+            "image": "dataset/train/polyps/743.tif",
+            "masks": "dataset/train/masks/743.tif"
+        },
+        {
+            "id": "411",
+            "image": "dataset/train/polyps/411.tif",
+            "masks": "dataset/train/masks/411.tif"
+        },
+        {
+            "id": "278",
+            "image": "dataset/train/polyps/278.tif",
+            "masks": "dataset/train/masks/278.tif"
+        },
+        {
+            "id": "384",
+            "image": "dataset/train/polyps/384.tif",
+            "masks": "dataset/train/masks/384.tif"
+        },
+        {
+            "id": "414",
+            "image": "dataset/train/polyps/414.tif",
+            "masks": "dataset/train/masks/414.tif"
+        },
+        {
+            "id": "309",
+            "image": "dataset/train/polyps/309.tif",
+            "masks": "dataset/train/masks/309.tif"
+        },
+        {
+            "id": "451",
+            "image": "dataset/train/polyps/451.tif",
+            "masks": "dataset/train/masks/451.tif"
+        },
+        {
+            "id": "483",
+            "image": "dataset/train/polyps/483.tif",
+            "masks": "dataset/train/masks/483.tif"
+        },
+        {
+            "id": "601",
+            "image": "dataset/train/polyps/601.tif",
+            "masks": "dataset/train/masks/601.tif"
+        },
+        {
+            "id": "707",
+            "image": "dataset/train/polyps/707.tif",
+            "masks": "dataset/train/masks/707.tif"
+        },
+        {
+            "id": "83",
+            "image": "dataset/train/polyps/83.tif",
+            "masks": "dataset/train/masks/83.tif"
+        },
+        {
+            "id": "170",
+            "image": "dataset/train/polyps/170.tif",
+            "masks": "dataset/train/masks/170.tif"
+        },
+        {
+            "id": "147",
+            "image": "dataset/train/polyps/147.tif",
+            "masks": "dataset/train/masks/147.tif"
+        },
+        {
+            "id": "478",
+            "image": "dataset/train/polyps/478.tif",
+            "masks": "dataset/train/masks/478.tif"
+        },
+        {
+            "id": "308",
+            "image": "dataset/train/polyps/308.tif",
+            "masks": "dataset/train/masks/308.tif"
+        },
+        {
+            "id": "237",
+            "image": "dataset/train/polyps/237.tif",
+            "masks": "dataset/train/masks/237.tif"
+        },
+        {
+            "id": "786",
+            "image": "dataset/train/polyps/786.tif",
+            "masks": "dataset/train/masks/786.tif"
+        },
+        {
+            "id": "134",
+            "image": "dataset/train/polyps/134.tif",
+            "masks": "dataset/train/masks/134.tif"
+        },
+        {
+            "id": "316",
+            "image": "dataset/train/polyps/316.tif",
+            "masks": "dataset/train/masks/316.tif"
+        },
+        {
+            "id": "24",
+            "image": "dataset/train/polyps/24.tif",
+            "masks": "dataset/train/masks/24.tif"
+        },
+        {
+            "id": "564",
+            "image": "dataset/train/polyps/564.tif",
+            "masks": "dataset/train/masks/564.tif"
+        },
+        {
+            "id": "36",
+            "image": "dataset/train/polyps/36.tif",
+            "masks": "dataset/train/masks/36.tif"
+        },
+        {
+            "id": "645",
+            "image": "dataset/train/polyps/645.tif",
+            "masks": "dataset/train/masks/645.tif"
+        },
+        {
+            "id": "375",
+            "image": "dataset/train/polyps/375.tif",
+            "masks": "dataset/train/masks/375.tif"
+        },
+        {
+            "id": "412",
+            "image": "dataset/train/polyps/412.tif",
+            "masks": "dataset/train/masks/412.tif"
+        },
+        {
+            "id": "244",
+            "image": "dataset/train/polyps/244.tif",
+            "masks": "dataset/train/masks/244.tif"
+        },
+        {
+            "id": "293",
+            "image": "dataset/train/polyps/293.tif",
+            "masks": "dataset/train/masks/293.tif"
+        },
+        {
+            "id": "446",
+            "image": "dataset/train/polyps/446.tif",
+            "masks": "dataset/train/masks/446.tif"
+        },
+        {
+            "id": "648",
+            "image": "dataset/train/polyps/648.tif",
+            "masks": "dataset/train/masks/648.tif"
+        },
+        {
+            "id": "249",
+            "image": "dataset/train/polyps/249.tif",
+            "masks": "dataset/train/masks/249.tif"
+        },
+        {
+            "id": "727",
+            "image": "dataset/train/polyps/727.tif",
+            "masks": "dataset/train/masks/727.tif"
+        },
+        {
+            "id": "686",
+            "image": "dataset/train/polyps/686.tif",
+            "masks": "dataset/train/masks/686.tif"
+        },
+        {
+            "id": "357",
+            "image": "dataset/train/polyps/357.tif",
+            "masks": "dataset/train/masks/357.tif"
+        },
+        {
+            "id": "212",
+            "image": "dataset/train/polyps/212.tif",
+            "masks": "dataset/train/masks/212.tif"
+        },
+        {
+            "id": "329",
+            "image": "dataset/train/polyps/329.tif",
+            "masks": "dataset/train/masks/329.tif"
+        },
+        {
+            "id": "415",
+            "image": "dataset/train/polyps/415.tif",
+            "masks": "dataset/train/masks/415.tif"
+        },
+        {
+            "id": "360",
+            "image": "dataset/train/polyps/360.tif",
+            "masks": "dataset/train/masks/360.tif"
+        },
+        {
+            "id": "748",
+            "image": "dataset/train/polyps/748.tif",
+            "masks": "dataset/train/masks/748.tif"
+        },
+        {
+            "id": "355",
+            "image": "dataset/train/polyps/355.tif",
+            "masks": "dataset/train/masks/355.tif"
+        },
+        {
+            "id": "667",
+            "image": "dataset/train/polyps/667.tif",
+            "masks": "dataset/train/masks/667.tif"
+        },
+        {
+            "id": "597",
+            "image": "dataset/train/polyps/597.tif",
+            "masks": "dataset/train/masks/597.tif"
+        },
+        {
+            "id": "694",
+            "image": "dataset/train/polyps/694.tif",
+            "masks": "dataset/train/masks/694.tif"
+        },
+        {
+            "id": "382",
+            "image": "dataset/train/polyps/382.tif",
+            "masks": "dataset/train/masks/382.tif"
+        },
+        {
+            "id": "647",
+            "image": "dataset/train/polyps/647.tif",
+            "masks": "dataset/train/masks/647.tif"
+        },
+        {
+            "id": "339",
+            "image": "dataset/train/polyps/339.tif",
+            "masks": "dataset/train/masks/339.tif"
+        },
+        {
+            "id": "261",
+            "image": "dataset/train/polyps/261.tif",
+            "masks": "dataset/train/masks/261.tif"
+        },
+        {
+            "id": "87",
+            "image": "dataset/train/polyps/87.tif",
+            "masks": "dataset/train/masks/87.tif"
+        },
+        {
+            "id": "534",
+            "image": "dataset/train/polyps/534.tif",
+            "masks": "dataset/train/masks/534.tif"
+        },
+        {
+            "id": "16",
+            "image": "dataset/train/polyps/16.tif",
+            "masks": "dataset/train/masks/16.tif"
+        },
+        {
+            "id": "639",
+            "image": "dataset/train/polyps/639.tif",
+            "masks": "dataset/train/masks/639.tif"
+        },
+        {
+            "id": "377",
+            "image": "dataset/train/polyps/377.tif",
+            "masks": "dataset/train/masks/377.tif"
+        },
+        {
+            "id": "673",
+            "image": "dataset/train/polyps/673.tif",
+            "masks": "dataset/train/masks/673.tif"
+        },
+        {
+            "id": "144",
+            "image": "dataset/train/polyps/144.tif",
+            "masks": "dataset/train/masks/144.tif"
+        },
+        {
+            "id": "633",
+            "image": "dataset/train/polyps/633.tif",
+            "masks": "dataset/train/masks/633.tif"
+        },
+        {
+            "id": "48",
+            "image": "dataset/train/polyps/48.tif",
+            "masks": "dataset/train/masks/48.tif"
+        },
+        {
+            "id": "593",
+            "image": "dataset/train/polyps/593.tif",
+            "masks": "dataset/train/masks/593.tif"
+        },
+        {
+            "id": "366",
+            "image": "dataset/train/polyps/366.tif",
+            "masks": "dataset/train/masks/366.tif"
+        },
+        {
+            "id": "560",
+            "image": "dataset/train/polyps/560.tif",
+            "masks": "dataset/train/masks/560.tif"
+        },
+        {
+            "id": "724",
+            "image": "dataset/train/polyps/724.tif",
+            "masks": "dataset/train/masks/724.tif"
+        },
+        {
+            "id": "577",
+            "image": "dataset/train/polyps/577.tif",
+            "masks": "dataset/train/masks/577.tif"
+        },
+        {
+            "id": "110",
+            "image": "dataset/train/polyps/110.tif",
+            "masks": "dataset/train/masks/110.tif"
+        },
+        {
+            "id": "718",
+            "image": "dataset/train/polyps/718.tif",
+            "masks": "dataset/train/masks/718.tif"
+        },
+        {
+            "id": "554",
+            "image": "dataset/train/polyps/554.tif",
+            "masks": "dataset/train/masks/554.tif"
+        },
+        {
+            "id": "0",
+            "image": "dataset/train/polyps/0.tif",
+            "masks": "dataset/train/masks/0.tif"
+        },
+        {
+            "id": "406",
+            "image": "dataset/train/polyps/406.tif",
+            "masks": "dataset/train/masks/406.tif"
+        },
+        {
+            "id": "361",
+            "image": "dataset/train/polyps/361.tif",
+            "masks": "dataset/train/masks/361.tif"
+        },
+        {
+            "id": "286",
+            "image": "dataset/train/polyps/286.tif",
+            "masks": "dataset/train/masks/286.tif"
+        },
+        {
+            "id": "706",
+            "image": "dataset/train/polyps/706.tif",
+            "masks": "dataset/train/masks/706.tif"
+        },
+        {
+            "id": "426",
+            "image": "dataset/train/polyps/426.tif",
+            "masks": "dataset/train/masks/426.tif"
+        },
+        {
+            "id": "678",
+            "image": "dataset/train/polyps/678.tif",
+            "masks": "dataset/train/masks/678.tif"
+        },
+        {
+            "id": "241",
+            "image": "dataset/train/polyps/241.tif",
+            "masks": "dataset/train/masks/241.tif"
+        },
+        {
+            "id": "595",
+            "image": "dataset/train/polyps/595.tif",
+            "masks": "dataset/train/masks/595.tif"
+        },
+        {
+            "id": "169",
+            "image": "dataset/train/polyps/169.tif",
+            "masks": "dataset/train/masks/169.tif"
+        },
+        {
+            "id": "480",
+            "image": "dataset/train/polyps/480.tif",
+            "masks": "dataset/train/masks/480.tif"
+        },
+        {
+            "id": "754",
+            "image": "dataset/train/polyps/754.tif",
+            "masks": "dataset/train/masks/754.tif"
+        },
+        {
+            "id": "213",
+            "image": "dataset/train/polyps/213.tif",
+            "masks": "dataset/train/masks/213.tif"
+        },
+        {
+            "id": "582",
+            "image": "dataset/train/polyps/582.tif",
+            "masks": "dataset/train/masks/582.tif"
+        },
+        {
+            "id": "40",
+            "image": "dataset/train/polyps/40.tif",
+            "masks": "dataset/train/masks/40.tif"
+        },
+        {
+            "id": "59",
+            "image": "dataset/train/polyps/59.tif",
+            "masks": "dataset/train/masks/59.tif"
+        },
+        {
+            "id": "542",
+            "image": "dataset/train/polyps/542.tif",
+            "masks": "dataset/train/masks/542.tif"
+        },
+        {
+            "id": "120",
+            "image": "dataset/train/polyps/120.tif",
+            "masks": "dataset/train/masks/120.tif"
+        },
+        {
+            "id": "176",
+            "image": "dataset/train/polyps/176.tif",
+            "masks": "dataset/train/masks/176.tif"
+        },
+        {
+            "id": "171",
+            "image": "dataset/train/polyps/171.tif",
+            "masks": "dataset/train/masks/171.tif"
+        },
+        {
+            "id": "567",
+            "image": "dataset/train/polyps/567.tif",
+            "masks": "dataset/train/masks/567.tif"
+        },
+        {
+            "id": "39",
+            "image": "dataset/train/polyps/39.tif",
+            "masks": "dataset/train/masks/39.tif"
+        },
+        {
+            "id": "761",
+            "image": "dataset/train/polyps/761.tif",
+            "masks": "dataset/train/masks/761.tif"
+        },
+        {
+            "id": "468",
+            "image": "dataset/train/polyps/468.tif",
+            "masks": "dataset/train/masks/468.tif"
+        },
+        {
+            "id": "710",
+            "image": "dataset/train/polyps/710.tif",
+            "masks": "dataset/train/masks/710.tif"
+        },
+        {
+            "id": "54",
+            "image": "dataset/train/polyps/54.tif",
+            "masks": "dataset/train/masks/54.tif"
+        },
+        {
+            "id": "211",
+            "image": "dataset/train/polyps/211.tif",
+            "masks": "dataset/train/masks/211.tif"
+        },
+        {
+            "id": "404",
+            "image": "dataset/train/polyps/404.tif",
+            "masks": "dataset/train/masks/404.tif"
+        },
+        {
+            "id": "755",
+            "image": "dataset/train/polyps/755.tif",
+            "masks": "dataset/train/masks/755.tif"
+        },
+        {
+            "id": "596",
+            "image": "dataset/train/polyps/596.tif",
+            "masks": "dataset/train/masks/596.tif"
+        },
+        {
+            "id": "541",
+            "image": "dataset/train/polyps/541.tif",
+            "masks": "dataset/train/masks/541.tif"
+        },
+        {
+            "id": "236",
+            "image": "dataset/train/polyps/236.tif",
+            "masks": "dataset/train/masks/236.tif"
+        },
+        {
+            "id": "8",
+            "image": "dataset/train/polyps/8.tif",
+            "masks": "dataset/train/masks/8.tif"
+        },
+        {
+            "id": "326",
+            "image": "dataset/train/polyps/326.tif",
+            "masks": "dataset/train/masks/326.tif"
+        },
+        {
+            "id": "43",
+            "image": "dataset/train/polyps/43.tif",
+            "masks": "dataset/train/masks/43.tif"
+        },
+        {
+            "id": "344",
+            "image": "dataset/train/polyps/344.tif",
+            "masks": "dataset/train/masks/344.tif"
+        },
+        {
+            "id": "517",
+            "image": "dataset/train/polyps/517.tif",
+            "masks": "dataset/train/masks/517.tif"
+        },
+        {
+            "id": "521",
+            "image": "dataset/train/polyps/521.tif",
+            "masks": "dataset/train/masks/521.tif"
+        },
+        {
+            "id": "459",
+            "image": "dataset/train/polyps/459.tif",
+            "masks": "dataset/train/masks/459.tif"
+        },
+        {
+            "id": "604",
+            "image": "dataset/train/polyps/604.tif",
+            "masks": "dataset/train/masks/604.tif"
+        },
+        {
+            "id": "423",
+            "image": "dataset/train/polyps/423.tif",
+            "masks": "dataset/train/masks/423.tif"
+        },
+        {
+            "id": "372",
+            "image": "dataset/train/polyps/372.tif",
+            "masks": "dataset/train/masks/372.tif"
+        },
+        {
+            "id": "416",
+            "image": "dataset/train/polyps/416.tif",
+            "masks": "dataset/train/masks/416.tif"
+        },
+        {
+            "id": "323",
+            "image": "dataset/train/polyps/323.tif",
+            "masks": "dataset/train/masks/323.tif"
+        },
+        {
+            "id": "573",
+            "image": "dataset/train/polyps/573.tif",
+            "masks": "dataset/train/masks/573.tif"
+        },
+        {
+            "id": "198",
+            "image": "dataset/train/polyps/198.tif",
+            "masks": "dataset/train/masks/198.tif"
+        },
+        {
+            "id": "742",
+            "image": "dataset/train/polyps/742.tif",
+            "masks": "dataset/train/masks/742.tif"
+        },
+        {
+            "id": "93",
+            "image": "dataset/train/polyps/93.tif",
+            "masks": "dataset/train/masks/93.tif"
+        },
+        {
+            "id": "381",
+            "image": "dataset/train/polyps/381.tif",
+            "masks": "dataset/train/masks/381.tif"
+        },
+        {
+            "id": "143",
+            "image": "dataset/train/polyps/143.tif",
+            "masks": "dataset/train/masks/143.tif"
+        },
+        {
+            "id": "458",
+            "image": "dataset/train/polyps/458.tif",
+            "masks": "dataset/train/masks/458.tif"
+        },
+        {
+            "id": "475",
+            "image": "dataset/train/polyps/475.tif",
+            "masks": "dataset/train/masks/475.tif"
+        },
+        {
+            "id": "723",
+            "image": "dataset/train/polyps/723.tif",
+            "masks": "dataset/train/masks/723.tif"
+        },
+        {
+            "id": "712",
+            "image": "dataset/train/polyps/712.tif",
+            "masks": "dataset/train/masks/712.tif"
+        },
+        {
+            "id": "242",
+            "image": "dataset/train/polyps/242.tif",
+            "masks": "dataset/train/masks/242.tif"
+        },
+        {
+            "id": "374",
+            "image": "dataset/train/polyps/374.tif",
+            "masks": "dataset/train/masks/374.tif"
+        },
+        {
+            "id": "467",
+            "image": "dataset/train/polyps/467.tif",
+            "masks": "dataset/train/masks/467.tif"
+        },
+        {
+            "id": "67",
+            "image": "dataset/train/polyps/67.tif",
+            "masks": "dataset/train/masks/67.tif"
+        },
+        {
+            "id": "434",
+            "image": "dataset/train/polyps/434.tif",
+            "masks": "dataset/train/masks/434.tif"
+        },
+        {
+            "id": "55",
+            "image": "dataset/train/polyps/55.tif",
+            "masks": "dataset/train/masks/55.tif"
+        },
+        {
+            "id": "395",
+            "image": "dataset/train/polyps/395.tif",
+            "masks": "dataset/train/masks/395.tif"
+        },
+        {
+            "id": "254",
+            "image": "dataset/train/polyps/254.tif",
+            "masks": "dataset/train/masks/254.tif"
+        },
+        {
+            "id": "369",
+            "image": "dataset/train/polyps/369.tif",
+            "masks": "dataset/train/masks/369.tif"
+        },
+        {
+            "id": "732",
+            "image": "dataset/train/polyps/732.tif",
+            "masks": "dataset/train/masks/732.tif"
+        },
+        {
+            "id": "401",
+            "image": "dataset/train/polyps/401.tif",
+            "masks": "dataset/train/masks/401.tif"
+        },
+        {
+            "id": "587",
+            "image": "dataset/train/polyps/587.tif",
+            "masks": "dataset/train/masks/587.tif"
+        },
+        {
+            "id": "348",
+            "image": "dataset/train/polyps/348.tif",
+            "masks": "dataset/train/masks/348.tif"
+        },
+        {
+            "id": "551",
+            "image": "dataset/train/polyps/551.tif",
+            "masks": "dataset/train/masks/551.tif"
+        },
+        {
+            "id": "643",
+            "image": "dataset/train/polyps/643.tif",
+            "masks": "dataset/train/masks/643.tif"
+        },
+        {
+            "id": "311",
+            "image": "dataset/train/polyps/311.tif",
+            "masks": "dataset/train/masks/311.tif"
+        },
+        {
+            "id": "66",
+            "image": "dataset/train/polyps/66.tif",
+            "masks": "dataset/train/masks/66.tif"
+        },
+        {
+            "id": "325",
+            "image": "dataset/train/polyps/325.tif",
+            "masks": "dataset/train/masks/325.tif"
+        },
+        {
+            "id": "386",
+            "image": "dataset/train/polyps/386.tif",
+            "masks": "dataset/train/masks/386.tif"
+        },
+        {
+            "id": "410",
+            "image": "dataset/train/polyps/410.tif",
+            "masks": "dataset/train/masks/410.tif"
+        },
+        {
+            "id": "194",
+            "image": "dataset/train/polyps/194.tif",
+            "masks": "dataset/train/masks/194.tif"
+        },
+        {
+            "id": "461",
+            "image": "dataset/train/polyps/461.tif",
+            "masks": "dataset/train/masks/461.tif"
+        },
+        {
+            "id": "186",
+            "image": "dataset/train/polyps/186.tif",
+            "masks": "dataset/train/masks/186.tif"
+        },
+        {
+            "id": "98",
+            "image": "dataset/train/polyps/98.tif",
+            "masks": "dataset/train/masks/98.tif"
+        },
+        {
+            "id": "154",
+            "image": "dataset/train/polyps/154.tif",
+            "masks": "dataset/train/masks/154.tif"
+        },
+        {
+            "id": "642",
+            "image": "dataset/train/polyps/642.tif",
+            "masks": "dataset/train/masks/642.tif"
+        },
+        {
+            "id": "107",
+            "image": "dataset/train/polyps/107.tif",
+            "masks": "dataset/train/masks/107.tif"
+        },
+        {
+            "id": "775",
+            "image": "dataset/train/polyps/775.tif",
+            "masks": "dataset/train/masks/775.tif"
+        },
+        {
+            "id": "178",
+            "image": "dataset/train/polyps/178.tif",
+            "masks": "dataset/train/masks/178.tif"
+        },
+        {
+            "id": "370",
+            "image": "dataset/train/polyps/370.tif",
+            "masks": "dataset/train/masks/370.tif"
+        },
+        {
+            "id": "430",
+            "image": "dataset/train/polyps/430.tif",
+            "masks": "dataset/train/masks/430.tif"
+        },
+        {
+            "id": "305",
+            "image": "dataset/train/polyps/305.tif",
+            "masks": "dataset/train/masks/305.tif"
+        },
+        {
+            "id": "371",
+            "image": "dataset/train/polyps/371.tif",
+            "masks": "dataset/train/masks/371.tif"
+        },
+        {
+            "id": "644",
+            "image": "dataset/train/polyps/644.tif",
+            "masks": "dataset/train/masks/644.tif"
+        },
+        {
+            "id": "11",
+            "image": "dataset/train/polyps/11.tif",
+            "masks": "dataset/train/masks/11.tif"
+        },
+        {
+            "id": "349",
+            "image": "dataset/train/polyps/349.tif",
+            "masks": "dataset/train/masks/349.tif"
+        },
+        {
+            "id": "569",
+            "image": "dataset/train/polyps/569.tif",
+            "masks": "dataset/train/masks/569.tif"
+        },
+        {
+            "id": "413",
+            "image": "dataset/train/polyps/413.tif",
+            "masks": "dataset/train/masks/413.tif"
+        },
+        {
+            "id": "149",
+            "image": "dataset/train/polyps/149.tif",
+            "masks": "dataset/train/masks/149.tif"
+        },
+        {
+            "id": "634",
+            "image": "dataset/train/polyps/634.tif",
+            "masks": "dataset/train/masks/634.tif"
+        },
+        {
+            "id": "600",
+            "image": "dataset/train/polyps/600.tif",
+            "masks": "dataset/train/masks/600.tif"
+        },
+        {
+            "id": "491",
+            "image": "dataset/train/polyps/491.tif",
+            "masks": "dataset/train/masks/491.tif"
+        },
+        {
+            "id": "60",
+            "image": "dataset/train/polyps/60.tif",
+            "masks": "dataset/train/masks/60.tif"
+        },
+        {
+            "id": "161",
+            "image": "dataset/train/polyps/161.tif",
+            "masks": "dataset/train/masks/161.tif"
+        },
+        {
+            "id": "97",
+            "image": "dataset/train/polyps/97.tif",
+            "masks": "dataset/train/masks/97.tif"
+        },
+        {
+            "id": "214",
+            "image": "dataset/train/polyps/214.tif",
+            "masks": "dataset/train/masks/214.tif"
+        },
+        {
+            "id": "131",
+            "image": "dataset/train/polyps/131.tif",
+            "masks": "dataset/train/masks/131.tif"
+        },
+        {
+            "id": "546",
+            "image": "dataset/train/polyps/546.tif",
+            "masks": "dataset/train/masks/546.tif"
+        },
+        {
+            "id": "477",
+            "image": "dataset/train/polyps/477.tif",
+            "masks": "dataset/train/masks/477.tif"
+        },
+        {
+            "id": "402",
+            "image": "dataset/train/polyps/402.tif",
+            "masks": "dataset/train/masks/402.tif"
+        },
+        {
+            "id": "622",
+            "image": "dataset/train/polyps/622.tif",
+            "masks": "dataset/train/masks/622.tif"
+        },
+        {
+            "id": "637",
+            "image": "dataset/train/polyps/637.tif",
+            "masks": "dataset/train/masks/637.tif"
+        },
+        {
+            "id": "174",
+            "image": "dataset/train/polyps/174.tif",
+            "masks": "dataset/train/masks/174.tif"
+        },
+        {
+            "id": "331",
+            "image": "dataset/train/polyps/331.tif",
+            "masks": "dataset/train/masks/331.tif"
+        },
+        {
+            "id": "658",
+            "image": "dataset/train/polyps/658.tif",
+            "masks": "dataset/train/masks/658.tif"
+        },
+        {
+            "id": "776",
+            "image": "dataset/train/polyps/776.tif",
+            "masks": "dataset/train/masks/776.tif"
+        },
+        {
+            "id": "287",
+            "image": "dataset/train/polyps/287.tif",
+            "masks": "dataset/train/masks/287.tif"
+        },
+        {
+            "id": "583",
+            "image": "dataset/train/polyps/583.tif",
+            "masks": "dataset/train/masks/583.tif"
+        },
+        {
+            "id": "503",
+            "image": "dataset/train/polyps/503.tif",
+            "masks": "dataset/train/masks/503.tif"
+        },
+        {
+            "id": "233",
+            "image": "dataset/train/polyps/233.tif",
+            "masks": "dataset/train/masks/233.tif"
+        },
+        {
+            "id": "104",
+            "image": "dataset/train/polyps/104.tif",
+            "masks": "dataset/train/masks/104.tif"
+        },
+        {
+            "id": "717",
+            "image": "dataset/train/polyps/717.tif",
+            "masks": "dataset/train/masks/717.tif"
+        },
+        {
+            "id": "203",
+            "image": "dataset/train/polyps/203.tif",
+            "masks": "dataset/train/masks/203.tif"
+        },
+        {
+            "id": "334",
+            "image": "dataset/train/polyps/334.tif",
+            "masks": "dataset/train/masks/334.tif"
+        },
+        {
+            "id": "14",
+            "image": "dataset/train/polyps/14.tif",
+            "masks": "dataset/train/masks/14.tif"
+        },
+        {
+            "id": "195",
+            "image": "dataset/train/polyps/195.tif",
+            "masks": "dataset/train/masks/195.tif"
+        },
+        {
+            "id": "167",
+            "image": "dataset/train/polyps/167.tif",
+            "masks": "dataset/train/masks/167.tif"
+        },
+        {
+            "id": "165",
+            "image": "dataset/train/polyps/165.tif",
+            "masks": "dataset/train/masks/165.tif"
+        },
+        {
+            "id": "358",
+            "image": "dataset/train/polyps/358.tif",
+            "masks": "dataset/train/masks/358.tif"
+        },
+        {
+            "id": "408",
+            "image": "dataset/train/polyps/408.tif",
+            "masks": "dataset/train/masks/408.tif"
+        },
+        {
+            "id": "692",
+            "image": "dataset/train/polyps/692.tif",
+            "masks": "dataset/train/masks/692.tif"
+        },
+        {
+            "id": "285",
+            "image": "dataset/train/polyps/285.tif",
+            "masks": "dataset/train/masks/285.tif"
+        },
+        {
+            "id": "442",
+            "image": "dataset/train/polyps/442.tif",
+            "masks": "dataset/train/masks/442.tif"
+        },
+        {
+            "id": "544",
+            "image": "dataset/train/polyps/544.tif",
+            "masks": "dataset/train/masks/544.tif"
+        },
+        {
+            "id": "609",
+            "image": "dataset/train/polyps/609.tif",
+            "masks": "dataset/train/masks/609.tif"
+        },
+        {
+            "id": "63",
+            "image": "dataset/train/polyps/63.tif",
+            "masks": "dataset/train/masks/63.tif"
+        },
+        {
+            "id": "130",
+            "image": "dataset/train/polyps/130.tif",
+            "masks": "dataset/train/masks/130.tif"
+        },
+        {
+            "id": "304",
+            "image": "dataset/train/polyps/304.tif",
+            "masks": "dataset/train/masks/304.tif"
+        },
+        {
+            "id": "540",
+            "image": "dataset/train/polyps/540.tif",
+            "masks": "dataset/train/masks/540.tif"
+        },
+        {
+            "id": "114",
+            "image": "dataset/train/polyps/114.tif",
+            "masks": "dataset/train/masks/114.tif"
+        },
+        {
+            "id": "552",
+            "image": "dataset/train/polyps/552.tif",
+            "masks": "dataset/train/masks/552.tif"
+        },
+        {
+            "id": "139",
+            "image": "dataset/train/polyps/139.tif",
+            "masks": "dataset/train/masks/139.tif"
+        },
+        {
+            "id": "227",
+            "image": "dataset/train/polyps/227.tif",
+            "masks": "dataset/train/masks/227.tif"
+        },
+        {
+            "id": "532",
+            "image": "dataset/train/polyps/532.tif",
+            "masks": "dataset/train/masks/532.tif"
+        },
+        {
+            "id": "187",
+            "image": "dataset/train/polyps/187.tif",
+            "masks": "dataset/train/masks/187.tif"
+        },
+        {
+            "id": "390",
+            "image": "dataset/train/polyps/390.tif",
+            "masks": "dataset/train/masks/390.tif"
+        },
+        {
+            "id": "276",
+            "image": "dataset/train/polyps/276.tif",
+            "masks": "dataset/train/masks/276.tif"
+        },
+        {
+            "id": "519",
+            "image": "dataset/train/polyps/519.tif",
+            "masks": "dataset/train/masks/519.tif"
+        },
+        {
+            "id": "274",
+            "image": "dataset/train/polyps/274.tif",
+            "masks": "dataset/train/masks/274.tif"
+        },
+        {
+            "id": "537",
+            "image": "dataset/train/polyps/537.tif",
+            "masks": "dataset/train/masks/537.tif"
+        },
+        {
+            "id": "351",
+            "image": "dataset/train/polyps/351.tif",
+            "masks": "dataset/train/masks/351.tif"
+        },
+        {
+            "id": "450",
+            "image": "dataset/train/polyps/450.tif",
+            "masks": "dataset/train/masks/450.tif"
+        },
+        {
+            "id": "50",
+            "image": "dataset/train/polyps/50.tif",
+            "masks": "dataset/train/masks/50.tif"
+        },
+        {
+            "id": "575",
+            "image": "dataset/train/polyps/575.tif",
+            "masks": "dataset/train/masks/575.tif"
+        },
+        {
+            "id": "470",
+            "image": "dataset/train/polyps/470.tif",
+            "masks": "dataset/train/masks/470.tif"
+        },
+        {
+            "id": "656",
+            "image": "dataset/train/polyps/656.tif",
+            "masks": "dataset/train/masks/656.tif"
+        },
+        {
+            "id": "661",
+            "image": "dataset/train/polyps/661.tif",
+            "masks": "dataset/train/masks/661.tif"
+        },
+        {
+            "id": "69",
+            "image": "dataset/train/polyps/69.tif",
+            "masks": "dataset/train/masks/69.tif"
+        },
+        {
+            "id": "158",
+            "image": "dataset/train/polyps/158.tif",
+            "masks": "dataset/train/masks/158.tif"
+        },
+        {
+            "id": "750",
+            "image": "dataset/train/polyps/750.tif",
+            "masks": "dataset/train/masks/750.tif"
+        },
+        {
+            "id": "172",
+            "image": "dataset/train/polyps/172.tif",
+            "masks": "dataset/train/masks/172.tif"
+        },
+        {
+            "id": "758",
+            "image": "dataset/train/polyps/758.tif",
+            "masks": "dataset/train/masks/758.tif"
+        },
+        {
+            "id": "76",
+            "image": "dataset/train/polyps/76.tif",
+            "masks": "dataset/train/masks/76.tif"
+        },
+        {
+            "id": "25",
+            "image": "dataset/train/polyps/25.tif",
+            "masks": "dataset/train/masks/25.tif"
+        },
+        {
+            "id": "646",
+            "image": "dataset/train/polyps/646.tif",
+            "masks": "dataset/train/masks/646.tif"
+        },
+        {
+            "id": "100",
+            "image": "dataset/train/polyps/100.tif",
+            "masks": "dataset/train/masks/100.tif"
+        },
+        {
+            "id": "681",
+            "image": "dataset/train/polyps/681.tif",
+            "masks": "dataset/train/masks/681.tif"
+        },
+        {
+            "id": "216",
+            "image": "dataset/train/polyps/216.tif",
+            "masks": "dataset/train/masks/216.tif"
+        },
+        {
+            "id": "697",
+            "image": "dataset/train/polyps/697.tif",
+            "masks": "dataset/train/masks/697.tif"
+        },
+        {
+            "id": "103",
+            "image": "dataset/train/polyps/103.tif",
+            "masks": "dataset/train/masks/103.tif"
+        },
+        {
+            "id": "270",
+            "image": "dataset/train/polyps/270.tif",
+            "masks": "dataset/train/masks/270.tif"
+        },
+        {
+            "id": "397",
+            "image": "dataset/train/polyps/397.tif",
+            "masks": "dataset/train/masks/397.tif"
+        },
+        {
+            "id": "183",
+            "image": "dataset/train/polyps/183.tif",
+            "masks": "dataset/train/masks/183.tif"
+        },
+        {
+            "id": "31",
+            "image": "dataset/train/polyps/31.tif",
+            "masks": "dataset/train/masks/31.tif"
+        },
+        {
+            "id": "652",
+            "image": "dataset/train/polyps/652.tif",
+            "masks": "dataset/train/masks/652.tif"
+        },
+        {
+            "id": "373",
+            "image": "dataset/train/polyps/373.tif",
+            "masks": "dataset/train/masks/373.tif"
+        },
+        {
+            "id": "496",
+            "image": "dataset/train/polyps/496.tif",
+            "masks": "dataset/train/masks/496.tif"
+        },
+        {
+            "id": "550",
+            "image": "dataset/train/polyps/550.tif",
+            "masks": "dataset/train/masks/550.tif"
+        },
+        {
+            "id": "427",
+            "image": "dataset/train/polyps/427.tif",
+            "masks": "dataset/train/masks/427.tif"
+        },
+        {
+            "id": "690",
+            "image": "dataset/train/polyps/690.tif",
+            "masks": "dataset/train/masks/690.tif"
+        },
+        {
+            "id": "488",
+            "image": "dataset/train/polyps/488.tif",
+            "masks": "dataset/train/masks/488.tif"
+        },
+        {
+            "id": "783",
+            "image": "dataset/train/polyps/783.tif",
+            "masks": "dataset/train/masks/783.tif"
+        },
+        {
+            "id": "649",
+            "image": "dataset/train/polyps/649.tif",
+            "masks": "dataset/train/masks/649.tif"
+        },
+        {
+            "id": "438",
+            "image": "dataset/train/polyps/438.tif",
+            "masks": "dataset/train/masks/438.tif"
+        },
+        {
+            "id": "340",
+            "image": "dataset/train/polyps/340.tif",
+            "masks": "dataset/train/masks/340.tif"
+        },
+        {
+            "id": "715",
+            "image": "dataset/train/polyps/715.tif",
+            "masks": "dataset/train/masks/715.tif"
+        },
+        {
+            "id": "230",
+            "image": "dataset/train/polyps/230.tif",
+            "masks": "dataset/train/masks/230.tif"
+        },
+        {
+            "id": "590",
+            "image": "dataset/train/polyps/590.tif",
+            "masks": "dataset/train/masks/590.tif"
+        },
+        {
+            "id": "96",
+            "image": "dataset/train/polyps/96.tif",
+            "masks": "dataset/train/masks/96.tif"
+        },
+        {
+            "id": "665",
+            "image": "dataset/train/polyps/665.tif",
+            "masks": "dataset/train/masks/665.tif"
+        },
+        {
+            "id": "704",
+            "image": "dataset/train/polyps/704.tif",
+            "masks": "dataset/train/masks/704.tif"
+        },
+        {
+            "id": "484",
+            "image": "dataset/train/polyps/484.tif",
+            "masks": "dataset/train/masks/484.tif"
+        },
+        {
+            "id": "447",
+            "image": "dataset/train/polyps/447.tif",
+            "masks": "dataset/train/masks/447.tif"
+        },
+        {
+            "id": "443",
+            "image": "dataset/train/polyps/443.tif",
+            "masks": "dataset/train/masks/443.tif"
+        },
+        {
+            "id": "113",
+            "image": "dataset/train/polyps/113.tif",
+            "masks": "dataset/train/masks/113.tif"
+        },
+        {
+            "id": "379",
+            "image": "dataset/train/polyps/379.tif",
+            "masks": "dataset/train/masks/379.tif"
+        },
+        {
+            "id": "538",
+            "image": "dataset/train/polyps/538.tif",
+            "masks": "dataset/train/masks/538.tif"
+        },
+        {
+            "id": "258",
+            "image": "dataset/train/polyps/258.tif",
+            "masks": "dataset/train/masks/258.tif"
+        },
+        {
+            "id": "721",
+            "image": "dataset/train/polyps/721.tif",
+            "masks": "dataset/train/masks/721.tif"
+        },
+        {
+            "id": "262",
+            "image": "dataset/train/polyps/262.tif",
+            "masks": "dataset/train/masks/262.tif"
+        },
+        {
+            "id": "245",
+            "image": "dataset/train/polyps/245.tif",
+            "masks": "dataset/train/masks/245.tif"
+        },
+        {
+            "id": "128",
+            "image": "dataset/train/polyps/128.tif",
+            "masks": "dataset/train/masks/128.tif"
+        },
+        {
+            "id": "102",
+            "image": "dataset/train/polyps/102.tif",
+            "masks": "dataset/train/masks/102.tif"
+        },
+        {
+            "id": "779",
+            "image": "dataset/train/polyps/779.tif",
+            "masks": "dataset/train/masks/779.tif"
+        },
+        {
+            "id": "78",
+            "image": "dataset/train/polyps/78.tif",
+            "masks": "dataset/train/masks/78.tif"
+        },
+        {
+            "id": "306",
+            "image": "dataset/train/polyps/306.tif",
+            "masks": "dataset/train/masks/306.tif"
+        },
+        {
+            "id": "52",
+            "image": "dataset/train/polyps/52.tif",
+            "masks": "dataset/train/masks/52.tif"
+        },
+        {
+            "id": "51",
+            "image": "dataset/train/polyps/51.tif",
+            "masks": "dataset/train/masks/51.tif"
+        },
+        {
+            "id": "482",
+            "image": "dataset/train/polyps/482.tif",
+            "masks": "dataset/train/masks/482.tif"
+        },
+        {
+            "id": "614",
+            "image": "dataset/train/polyps/614.tif",
+            "masks": "dataset/train/masks/614.tif"
+        },
+        {
+            "id": "188",
+            "image": "dataset/train/polyps/188.tif",
+            "masks": "dataset/train/masks/188.tif"
+        },
+        {
+            "id": "208",
+            "image": "dataset/train/polyps/208.tif",
+            "masks": "dataset/train/masks/208.tif"
+        },
+        {
+            "id": "160",
+            "image": "dataset/train/polyps/160.tif",
+            "masks": "dataset/train/masks/160.tif"
+        },
+        {
+            "id": "335",
+            "image": "dataset/train/polyps/335.tif",
+            "masks": "dataset/train/masks/335.tif"
+        },
+        {
+            "id": "632",
+            "image": "dataset/train/polyps/632.tif",
+            "masks": "dataset/train/masks/632.tif"
+        },
+        {
+            "id": "565",
+            "image": "dataset/train/polyps/565.tif",
+            "masks": "dataset/train/masks/565.tif"
+        },
+        {
+            "id": "746",
+            "image": "dataset/train/polyps/746.tif",
+            "masks": "dataset/train/masks/746.tif"
+        },
+        {
+            "id": "638",
+            "image": "dataset/train/polyps/638.tif",
+            "masks": "dataset/train/masks/638.tif"
+        },
+        {
+            "id": "592",
+            "image": "dataset/train/polyps/592.tif",
+            "masks": "dataset/train/masks/592.tif"
+        },
+        {
+            "id": "367",
+            "image": "dataset/train/polyps/367.tif",
+            "masks": "dataset/train/masks/367.tif"
+        },
+        {
+            "id": "570",
+            "image": "dataset/train/polyps/570.tif",
+            "masks": "dataset/train/masks/570.tif"
+        },
+        {
+            "id": "616",
+            "image": "dataset/train/polyps/616.tif",
+            "masks": "dataset/train/masks/616.tif"
+        },
+        {
+            "id": "781",
+            "image": "dataset/train/polyps/781.tif",
+            "masks": "dataset/train/masks/781.tif"
+        },
+        {
+            "id": "619",
+            "image": "dataset/train/polyps/619.tif",
+            "masks": "dataset/train/masks/619.tif"
+        },
+        {
+            "id": "150",
+            "image": "dataset/train/polyps/150.tif",
+            "masks": "dataset/train/masks/150.tif"
+        },
+        {
+            "id": "181",
+            "image": "dataset/train/polyps/181.tif",
+            "masks": "dataset/train/masks/181.tif"
+        },
+        {
+            "id": "691",
+            "image": "dataset/train/polyps/691.tif",
+            "masks": "dataset/train/masks/691.tif"
+        },
+        {
+            "id": "613",
+            "image": "dataset/train/polyps/613.tif",
+            "masks": "dataset/train/masks/613.tif"
+        },
+        {
+            "id": "322",
+            "image": "dataset/train/polyps/322.tif",
+            "masks": "dataset/train/masks/322.tif"
+        },
+        {
+            "id": "5",
+            "image": "dataset/train/polyps/5.tif",
+            "masks": "dataset/train/masks/5.tif"
+        },
+        {
+            "id": "342",
+            "image": "dataset/train/polyps/342.tif",
+            "masks": "dataset/train/masks/342.tif"
+        },
+        {
+            "id": "747",
+            "image": "dataset/train/polyps/747.tif",
+            "masks": "dataset/train/masks/747.tif"
+        },
+        {
+            "id": "701",
+            "image": "dataset/train/polyps/701.tif",
+            "masks": "dataset/train/masks/701.tif"
+        },
+        {
+            "id": "745",
+            "image": "dataset/train/polyps/745.tif",
+            "masks": "dataset/train/masks/745.tif"
+        },
+        {
+            "id": "111",
+            "image": "dataset/train/polyps/111.tif",
+            "masks": "dataset/train/masks/111.tif"
+        },
+        {
+            "id": "474",
+            "image": "dataset/train/polyps/474.tif",
+            "masks": "dataset/train/masks/474.tif"
+        },
+        {
+            "id": "257",
+            "image": "dataset/train/polyps/257.tif",
+            "masks": "dataset/train/masks/257.tif"
+        },
+        {
+            "id": "518",
+            "image": "dataset/train/polyps/518.tif",
+            "masks": "dataset/train/masks/518.tif"
+        },
+        {
+            "id": "142",
+            "image": "dataset/train/polyps/142.tif",
+            "masks": "dataset/train/masks/142.tif"
+        },
+        {
+            "id": "580",
+            "image": "dataset/train/polyps/580.tif",
+            "masks": "dataset/train/masks/580.tif"
+        },
+        {
+            "id": "777",
+            "image": "dataset/train/polyps/777.tif",
+            "masks": "dataset/train/masks/777.tif"
+        },
+        {
+            "id": "449",
+            "image": "dataset/train/polyps/449.tif",
+            "masks": "dataset/train/masks/449.tif"
+        },
+        {
+            "id": "106",
+            "image": "dataset/train/polyps/106.tif",
+            "masks": "dataset/train/masks/106.tif"
+        },
+        {
+            "id": "716",
+            "image": "dataset/train/polyps/716.tif",
+            "masks": "dataset/train/masks/716.tif"
+        },
+        {
+            "id": "9",
+            "image": "dataset/train/polyps/9.tif",
+            "masks": "dataset/train/masks/9.tif"
+        },
+        {
+            "id": "199",
+            "image": "dataset/train/polyps/199.tif",
+            "masks": "dataset/train/masks/199.tif"
+        },
+        {
+            "id": "297",
+            "image": "dataset/train/polyps/297.tif",
+            "masks": "dataset/train/masks/297.tif"
+        },
+        {
+            "id": "288",
+            "image": "dataset/train/polyps/288.tif",
+            "masks": "dataset/train/masks/288.tif"
+        },
+        {
+            "id": "202",
+            "image": "dataset/train/polyps/202.tif",
+            "masks": "dataset/train/masks/202.tif"
+        },
+        {
+            "id": "159",
+            "image": "dataset/train/polyps/159.tif",
+            "masks": "dataset/train/masks/159.tif"
+        },
+        {
+            "id": "471",
+            "image": "dataset/train/polyps/471.tif",
+            "masks": "dataset/train/masks/471.tif"
+        },
+        {
+            "id": "439",
+            "image": "dataset/train/polyps/439.tif",
+            "masks": "dataset/train/masks/439.tif"
+        },
+        {
+            "id": "454",
+            "image": "dataset/train/polyps/454.tif",
+            "masks": "dataset/train/masks/454.tif"
+        },
+        {
+            "id": "672",
+            "image": "dataset/train/polyps/672.tif",
+            "masks": "dataset/train/masks/672.tif"
+        },
+        {
+            "id": "385",
+            "image": "dataset/train/polyps/385.tif",
+            "masks": "dataset/train/masks/385.tif"
+        },
+        {
+            "id": "584",
+            "image": "dataset/train/polyps/584.tif",
+            "masks": "dataset/train/masks/584.tif"
+        },
+        {
+            "id": "64",
+            "image": "dataset/train/polyps/64.tif",
+            "masks": "dataset/train/masks/64.tif"
+        },
+        {
+            "id": "522",
+            "image": "dataset/train/polyps/522.tif",
+            "masks": "dataset/train/masks/522.tif"
+        },
+        {
+            "id": "734",
+            "image": "dataset/train/polyps/734.tif",
+            "masks": "dataset/train/masks/734.tif"
+        },
+        {
+            "id": "445",
+            "image": "dataset/train/polyps/445.tif",
+            "masks": "dataset/train/masks/445.tif"
+        },
+        {
+            "id": "512",
+            "image": "dataset/train/polyps/512.tif",
+            "masks": "dataset/train/masks/512.tif"
+        },
+        {
+            "id": "363",
+            "image": "dataset/train/polyps/363.tif",
+            "masks": "dataset/train/masks/363.tif"
+        },
+        {
+            "id": "295",
+            "image": "dataset/train/polyps/295.tif",
+            "masks": "dataset/train/masks/295.tif"
+        },
+        {
+            "id": "300",
+            "image": "dataset/train/polyps/300.tif",
+            "masks": "dataset/train/masks/300.tif"
+        },
+        {
+            "id": "271",
+            "image": "dataset/train/polyps/271.tif",
+            "masks": "dataset/train/masks/271.tif"
+        },
+        {
+            "id": "182",
+            "image": "dataset/train/polyps/182.tif",
+            "masks": "dataset/train/masks/182.tif"
+        },
+        {
+            "id": "392",
+            "image": "dataset/train/polyps/392.tif",
+            "masks": "dataset/train/masks/392.tif"
+        },
+        {
+            "id": "118",
+            "image": "dataset/train/polyps/118.tif",
+            "masks": "dataset/train/masks/118.tif"
+        },
+        {
+            "id": "72",
+            "image": "dataset/train/polyps/72.tif",
+            "masks": "dataset/train/masks/72.tif"
+        },
+        {
+            "id": "204",
+            "image": "dataset/train/polyps/204.tif",
+            "masks": "dataset/train/masks/204.tif"
+        },
+        {
+            "id": "759",
+            "image": "dataset/train/polyps/759.tif",
+            "masks": "dataset/train/masks/759.tif"
+        },
+        {
+            "id": "109",
+            "image": "dataset/train/polyps/109.tif",
+            "masks": "dataset/train/masks/109.tif"
+        },
+        {
+            "id": "132",
+            "image": "dataset/train/polyps/132.tif",
+            "masks": "dataset/train/masks/132.tif"
+        },
+        {
+            "id": "19",
+            "image": "dataset/train/polyps/19.tif",
+            "masks": "dataset/train/masks/19.tif"
+        },
+        {
+            "id": "388",
+            "image": "dataset/train/polyps/388.tif",
+            "masks": "dataset/train/masks/388.tif"
+        },
+        {
+            "id": "506",
+            "image": "dataset/train/polyps/506.tif",
+            "masks": "dataset/train/masks/506.tif"
+        },
+        {
+            "id": "307",
+            "image": "dataset/train/polyps/307.tif",
+            "masks": "dataset/train/masks/307.tif"
+        },
+        {
+            "id": "301",
+            "image": "dataset/train/polyps/301.tif",
+            "masks": "dataset/train/masks/301.tif"
+        },
+        {
+            "id": "239",
+            "image": "dataset/train/polyps/239.tif",
+            "masks": "dataset/train/masks/239.tif"
+        },
+        {
+            "id": "336",
+            "image": "dataset/train/polyps/336.tif",
+            "masks": "dataset/train/masks/336.tif"
+        },
+        {
+            "id": "260",
+            "image": "dataset/train/polyps/260.tif",
+            "masks": "dataset/train/masks/260.tif"
+        },
+        {
+            "id": "764",
+            "image": "dataset/train/polyps/764.tif",
+            "masks": "dataset/train/masks/764.tif"
+        },
+        {
+            "id": "688",
+            "image": "dataset/train/polyps/688.tif",
+            "masks": "dataset/train/masks/688.tif"
+        },
+        {
+            "id": "756",
+            "image": "dataset/train/polyps/756.tif",
+            "masks": "dataset/train/masks/756.tif"
+        },
+        {
+            "id": "191",
+            "image": "dataset/train/polyps/191.tif",
+            "masks": "dataset/train/masks/191.tif"
+        },
+        {
+            "id": "751",
+            "image": "dataset/train/polyps/751.tif",
+            "masks": "dataset/train/masks/751.tif"
+        },
+        {
+            "id": "624",
+            "image": "dataset/train/polyps/624.tif",
+            "masks": "dataset/train/masks/624.tif"
+        },
+        {
+            "id": "253",
+            "image": "dataset/train/polyps/253.tif",
+            "masks": "dataset/train/masks/253.tif"
+        },
+        {
+            "id": "383",
+            "image": "dataset/train/polyps/383.tif",
+            "masks": "dataset/train/masks/383.tif"
+        },
+        {
+            "id": "112",
+            "image": "dataset/train/polyps/112.tif",
+            "masks": "dataset/train/masks/112.tif"
+        },
+        {
+            "id": "456",
+            "image": "dataset/train/polyps/456.tif",
+            "masks": "dataset/train/masks/456.tif"
+        },
+        {
+            "id": "432",
+            "image": "dataset/train/polyps/432.tif",
+            "masks": "dataset/train/masks/432.tif"
+        },
+        {
+            "id": "163",
+            "image": "dataset/train/polyps/163.tif",
+            "masks": "dataset/train/masks/163.tif"
+        },
+        {
+            "id": "89",
+            "image": "dataset/train/polyps/89.tif",
+            "masks": "dataset/train/masks/89.tif"
+        },
+        {
+            "id": "441",
+            "image": "dataset/train/polyps/441.tif",
+            "masks": "dataset/train/masks/441.tif"
+        },
+        {
+            "id": "42",
+            "image": "dataset/train/polyps/42.tif",
+            "masks": "dataset/train/masks/42.tif"
+        },
+        {
+            "id": "391",
+            "image": "dataset/train/polyps/391.tif",
+            "masks": "dataset/train/masks/391.tif"
+        },
+        {
+            "id": "666",
+            "image": "dataset/train/polyps/666.tif",
+            "masks": "dataset/train/masks/666.tif"
+        },
+        {
+            "id": "422",
+            "image": "dataset/train/polyps/422.tif",
+            "masks": "dataset/train/masks/422.tif"
+        },
+        {
+            "id": "201",
+            "image": "dataset/train/polyps/201.tif",
+            "masks": "dataset/train/masks/201.tif"
+        },
+        {
+            "id": "116",
+            "image": "dataset/train/polyps/116.tif",
+            "masks": "dataset/train/masks/116.tif"
+        },
+        {
+            "id": "435",
+            "image": "dataset/train/polyps/435.tif",
+            "masks": "dataset/train/masks/435.tif"
+        },
+        {
+            "id": "221",
+            "image": "dataset/train/polyps/221.tif",
+            "masks": "dataset/train/masks/221.tif"
+        },
+        {
+            "id": "520",
+            "image": "dataset/train/polyps/520.tif",
+            "masks": "dataset/train/masks/520.tif"
+        },
+        {
+            "id": "684",
+            "image": "dataset/train/polyps/684.tif",
+            "masks": "dataset/train/masks/684.tif"
+        },
+        {
+            "id": "720",
+            "image": "dataset/train/polyps/720.tif",
+            "masks": "dataset/train/masks/720.tif"
+        },
+        {
+            "id": "586",
+            "image": "dataset/train/polyps/586.tif",
+            "masks": "dataset/train/masks/586.tif"
+        },
+        {
+            "id": "773",
+            "image": "dataset/train/polyps/773.tif",
+            "masks": "dataset/train/masks/773.tif"
+        },
+        {
+            "id": "708",
+            "image": "dataset/train/polyps/708.tif",
+            "masks": "dataset/train/masks/708.tif"
+        },
+        {
+            "id": "662",
+            "image": "dataset/train/polyps/662.tif",
+            "masks": "dataset/train/masks/662.tif"
+        },
+        {
+            "id": "65",
+            "image": "dataset/train/polyps/65.tif",
+            "masks": "dataset/train/masks/65.tif"
+        },
+        {
+            "id": "703",
+            "image": "dataset/train/polyps/703.tif",
+            "masks": "dataset/train/masks/703.tif"
+        },
+        {
+            "id": "591",
+            "image": "dataset/train/polyps/591.tif",
+            "masks": "dataset/train/masks/591.tif"
+        },
+        {
+            "id": "671",
+            "image": "dataset/train/polyps/671.tif",
+            "masks": "dataset/train/masks/671.tif"
+        },
+        {
+            "id": "731",
+            "image": "dataset/train/polyps/731.tif",
+            "masks": "dataset/train/masks/731.tif"
+        },
+        {
+            "id": "126",
+            "image": "dataset/train/polyps/126.tif",
+            "masks": "dataset/train/masks/126.tif"
+        },
+        {
+            "id": "207",
+            "image": "dataset/train/polyps/207.tif",
+            "masks": "dataset/train/masks/207.tif"
+        },
+        {
+            "id": "693",
+            "image": "dataset/train/polyps/693.tif",
+            "masks": "dataset/train/masks/693.tif"
+        },
+        {
+            "id": "670",
+            "image": "dataset/train/polyps/670.tif",
+            "masks": "dataset/train/masks/670.tif"
+        },
+        {
+            "id": "238",
+            "image": "dataset/train/polyps/238.tif",
+            "masks": "dataset/train/masks/238.tif"
+        },
+        {
+            "id": "405",
+            "image": "dataset/train/polyps/405.tif",
+            "masks": "dataset/train/masks/405.tif"
+        },
+        {
+            "id": "264",
+            "image": "dataset/train/polyps/264.tif",
+            "masks": "dataset/train/masks/264.tif"
+        },
+        {
+            "id": "419",
+            "image": "dataset/train/polyps/419.tif",
+            "masks": "dataset/train/masks/419.tif"
+        },
+        {
+            "id": "752",
+            "image": "dataset/train/polyps/752.tif",
+            "masks": "dataset/train/masks/752.tif"
+        },
+        {
+            "id": "121",
+            "image": "dataset/train/polyps/121.tif",
+            "masks": "dataset/train/masks/121.tif"
+        },
+        {
+            "id": "235",
+            "image": "dataset/train/polyps/235.tif",
+            "masks": "dataset/train/masks/235.tif"
+        },
+        {
+            "id": "409",
+            "image": "dataset/train/polyps/409.tif",
+            "masks": "dataset/train/masks/409.tif"
+        },
+        {
+            "id": "365",
+            "image": "dataset/train/polyps/365.tif",
+            "masks": "dataset/train/masks/365.tif"
+        },
+        {
+            "id": "268",
+            "image": "dataset/train/polyps/268.tif",
+            "masks": "dataset/train/masks/268.tif"
+        },
+        {
+            "id": "56",
+            "image": "dataset/train/polyps/56.tif",
+            "masks": "dataset/train/masks/56.tif"
+        },
+        {
+            "id": "162",
+            "image": "dataset/train/polyps/162.tif",
+            "masks": "dataset/train/masks/162.tif"
+        },
+        {
+            "id": "498",
+            "image": "dataset/train/polyps/498.tif",
+            "masks": "dataset/train/masks/498.tif"
+        },
+        {
+            "id": "464",
+            "image": "dataset/train/polyps/464.tif",
+            "masks": "dataset/train/masks/464.tif"
+        },
+        {
+            "id": "129",
+            "image": "dataset/train/polyps/129.tif",
+            "masks": "dataset/train/masks/129.tif"
+        },
+        {
+            "id": "354",
+            "image": "dataset/train/polyps/354.tif",
+            "masks": "dataset/train/masks/354.tif"
+        },
+        {
+            "id": "635",
+            "image": "dataset/train/polyps/635.tif",
+            "masks": "dataset/train/masks/635.tif"
+        },
+        {
+            "id": "444",
+            "image": "dataset/train/polyps/444.tif",
+            "masks": "dataset/train/masks/444.tif"
+        },
+        {
+            "id": "209",
+            "image": "dataset/train/polyps/209.tif",
+            "masks": "dataset/train/masks/209.tif"
+        },
+        {
+            "id": "500",
+            "image": "dataset/train/polyps/500.tif",
+            "masks": "dataset/train/masks/500.tif"
+        },
+        {
+            "id": "22",
+            "image": "dataset/train/polyps/22.tif",
+            "masks": "dataset/train/masks/22.tif"
+        },
+        {
+            "id": "626",
+            "image": "dataset/train/polyps/626.tif",
+            "masks": "dataset/train/masks/626.tif"
+        },
+        {
+            "id": "576",
+            "image": "dataset/train/polyps/576.tif",
+            "masks": "dataset/train/masks/576.tif"
+        },
+        {
+            "id": "315",
+            "image": "dataset/train/polyps/315.tif",
+            "masks": "dataset/train/masks/315.tif"
+        },
+        {
+            "id": "312",
+            "image": "dataset/train/polyps/312.tif",
+            "masks": "dataset/train/masks/312.tif"
+        },
+        {
+            "id": "108",
+            "image": "dataset/train/polyps/108.tif",
+            "masks": "dataset/train/masks/108.tif"
+        },
+        {
+            "id": "84",
+            "image": "dataset/train/polyps/84.tif",
+            "masks": "dataset/train/masks/84.tif"
+        },
+        {
+            "id": "543",
+            "image": "dataset/train/polyps/543.tif",
+            "masks": "dataset/train/masks/543.tif"
+        },
+        {
+            "id": "378",
+            "image": "dataset/train/polyps/378.tif",
+            "masks": "dataset/train/masks/378.tif"
+        },
+        {
+            "id": "283",
+            "image": "dataset/train/polyps/283.tif",
+            "masks": "dataset/train/masks/283.tif"
+        },
+        {
+            "id": "133",
+            "image": "dataset/train/polyps/133.tif",
+            "masks": "dataset/train/masks/133.tif"
+        },
+        {
+            "id": "250",
+            "image": "dataset/train/polyps/250.tif",
+            "masks": "dataset/train/masks/250.tif"
+        },
+        {
+            "id": "228",
+            "image": "dataset/train/polyps/228.tif",
+            "masks": "dataset/train/masks/228.tif"
+        },
+        {
+            "id": "753",
+            "image": "dataset/train/polyps/753.tif",
+            "masks": "dataset/train/masks/753.tif"
+        },
+        {
+            "id": "425",
+            "image": "dataset/train/polyps/425.tif",
+            "masks": "dataset/train/masks/425.tif"
+        },
+        {
+            "id": "719",
+            "image": "dataset/train/polyps/719.tif",
+            "masks": "dataset/train/masks/719.tif"
+        },
+        {
+            "id": "617",
+            "image": "dataset/train/polyps/617.tif",
+            "masks": "dataset/train/masks/617.tif"
+        },
+        {
+            "id": "49",
+            "image": "dataset/train/polyps/49.tif",
+            "masks": "dataset/train/masks/49.tif"
+        },
+        {
+            "id": "152",
+            "image": "dataset/train/polyps/152.tif",
+            "masks": "dataset/train/masks/152.tif"
+        },
+        {
+            "id": "333",
+            "image": "dataset/train/polyps/333.tif",
+            "masks": "dataset/train/masks/333.tif"
+        },
+        {
+            "id": "683",
+            "image": "dataset/train/polyps/683.tif",
+            "masks": "dataset/train/masks/683.tif"
+        },
+        {
+            "id": "79",
+            "image": "dataset/train/polyps/79.tif",
+            "masks": "dataset/train/masks/79.tif"
+        },
+        {
+            "id": "141",
+            "image": "dataset/train/polyps/141.tif",
+            "masks": "dataset/train/masks/141.tif"
+        },
+        {
+            "id": "7",
+            "image": "dataset/train/polyps/7.tif",
+            "masks": "dataset/train/masks/7.tif"
+        },
+        {
+            "id": "440",
+            "image": "dataset/train/polyps/440.tif",
+            "masks": "dataset/train/masks/440.tif"
+        },
+        {
+            "id": "510",
+            "image": "dataset/train/polyps/510.tif",
+            "masks": "dataset/train/masks/510.tif"
+        },
+        {
+            "id": "12",
+            "image": "dataset/train/polyps/12.tif",
+            "masks": "dataset/train/masks/12.tif"
+        },
+        {
+            "id": "23",
+            "image": "dataset/train/polyps/23.tif",
+            "masks": "dataset/train/masks/23.tif"
+        },
+        {
+            "id": "291",
+            "image": "dataset/train/polyps/291.tif",
+            "masks": "dataset/train/masks/291.tif"
+        },
+        {
+            "id": "58",
+            "image": "dataset/train/polyps/58.tif",
+            "masks": "dataset/train/masks/58.tif"
+        },
+        {
+            "id": "206",
+            "image": "dataset/train/polyps/206.tif",
+            "masks": "dataset/train/masks/206.tif"
+        },
+        {
+            "id": "631",
+            "image": "dataset/train/polyps/631.tif",
+            "masks": "dataset/train/masks/631.tif"
+        },
+        {
+            "id": "41",
+            "image": "dataset/train/polyps/41.tif",
+            "masks": "dataset/train/masks/41.tif"
+        },
+        {
+            "id": "555",
+            "image": "dataset/train/polyps/555.tif",
+            "masks": "dataset/train/masks/555.tif"
+        },
+        {
+            "id": "526",
+            "image": "dataset/train/polyps/526.tif",
+            "masks": "dataset/train/masks/526.tif"
+        },
+        {
+            "id": "765",
+            "image": "dataset/train/polyps/765.tif",
+            "masks": "dataset/train/masks/765.tif"
+        },
+        {
+            "id": "396",
+            "image": "dataset/train/polyps/396.tif",
+            "masks": "dataset/train/masks/396.tif"
+        },
+        {
+            "id": "485",
+            "image": "dataset/train/polyps/485.tif",
+            "masks": "dataset/train/masks/485.tif"
+        },
+        {
+            "id": "317",
+            "image": "dataset/train/polyps/317.tif",
+            "masks": "dataset/train/masks/317.tif"
+        },
+        {
+            "id": "711",
+            "image": "dataset/train/polyps/711.tif",
+            "masks": "dataset/train/masks/711.tif"
+        },
+        {
+            "id": "82",
+            "image": "dataset/train/polyps/82.tif",
+            "masks": "dataset/train/masks/82.tif"
+        },
+        {
+            "id": "760",
+            "image": "dataset/train/polyps/760.tif",
+            "masks": "dataset/train/masks/760.tif"
+        },
+        {
+            "id": "289",
+            "image": "dataset/train/polyps/289.tif",
+            "masks": "dataset/train/masks/289.tif"
+        },
+        {
+            "id": "252",
+            "image": "dataset/train/polyps/252.tif",
+            "masks": "dataset/train/masks/252.tif"
+        },
+        {
+            "id": "424",
+            "image": "dataset/train/polyps/424.tif",
+            "masks": "dataset/train/masks/424.tif"
+        },
+        {
+            "id": "602",
+            "image": "dataset/train/polyps/602.tif",
+            "masks": "dataset/train/masks/602.tif"
+        },
+        {
+            "id": "44",
+            "image": "dataset/train/polyps/44.tif",
+            "masks": "dataset/train/masks/44.tif"
+        },
+        {
+            "id": "762",
+            "image": "dataset/train/polyps/762.tif",
+            "masks": "dataset/train/masks/762.tif"
+        },
+        {
+            "id": "494",
+            "image": "dataset/train/polyps/494.tif",
+            "masks": "dataset/train/masks/494.tif"
+        },
+        {
+            "id": "585",
+            "image": "dataset/train/polyps/585.tif",
+            "masks": "dataset/train/masks/585.tif"
+        },
+        {
+            "id": "497",
+            "image": "dataset/train/polyps/497.tif",
+            "masks": "dataset/train/masks/497.tif"
+        },
+        {
+            "id": "319",
+            "image": "dataset/train/polyps/319.tif",
+            "masks": "dataset/train/masks/319.tif"
+        },
+        {
+            "id": "785",
+            "image": "dataset/train/polyps/785.tif",
+            "masks": "dataset/train/masks/785.tif"
+        },
+        {
+            "id": "481",
+            "image": "dataset/train/polyps/481.tif",
+            "masks": "dataset/train/masks/481.tif"
+        },
+        {
+            "id": "177",
+            "image": "dataset/train/polyps/177.tif",
+            "masks": "dataset/train/masks/177.tif"
+        },
+        {
+            "id": "359",
+            "image": "dataset/train/polyps/359.tif",
+            "masks": "dataset/train/masks/359.tif"
+        },
+        {
+            "id": "659",
+            "image": "dataset/train/polyps/659.tif",
+            "masks": "dataset/train/masks/659.tif"
+        },
+        {
+            "id": "486",
+            "image": "dataset/train/polyps/486.tif",
+            "masks": "dataset/train/masks/486.tif"
+        },
+        {
+            "id": "606",
+            "image": "dataset/train/polyps/606.tif",
+            "masks": "dataset/train/masks/606.tif"
+        },
+        {
+            "id": "739",
+            "image": "dataset/train/polyps/739.tif",
+            "masks": "dataset/train/masks/739.tif"
+        },
+        {
+            "id": "225",
+            "image": "dataset/train/polyps/225.tif",
+            "masks": "dataset/train/masks/225.tif"
+        },
+        {
+            "id": "70",
+            "image": "dataset/train/polyps/70.tif",
+            "masks": "dataset/train/masks/70.tif"
+        },
+        {
+            "id": "136",
+            "image": "dataset/train/polyps/136.tif",
+            "masks": "dataset/train/masks/136.tif"
+        },
+        {
+            "id": "119",
+            "image": "dataset/train/polyps/119.tif",
+            "masks": "dataset/train/masks/119.tif"
+        },
+        {
+            "id": "605",
+            "image": "dataset/train/polyps/605.tif",
+            "masks": "dataset/train/masks/605.tif"
+        },
+        {
+            "id": "729",
+            "image": "dataset/train/polyps/729.tif",
+            "masks": "dataset/train/masks/729.tif"
+        },
+        {
+            "id": "429",
+            "image": "dataset/train/polyps/429.tif",
+            "masks": "dataset/train/masks/429.tif"
+        },
+        {
+            "id": "90",
+            "image": "dataset/train/polyps/90.tif",
+            "masks": "dataset/train/masks/90.tif"
+        },
+        {
+            "id": "223",
+            "image": "dataset/train/polyps/223.tif",
+            "masks": "dataset/train/masks/223.tif"
+        },
+        {
+            "id": "387",
+            "image": "dataset/train/polyps/387.tif",
+            "masks": "dataset/train/masks/387.tif"
+        },
+        {
+            "id": "15",
+            "image": "dataset/train/polyps/15.tif",
+            "masks": "dataset/train/masks/15.tif"
+        },
+        {
+            "id": "700",
+            "image": "dataset/train/polyps/700.tif",
+            "masks": "dataset/train/masks/700.tif"
+        },
+        {
+            "id": "687",
+            "image": "dataset/train/polyps/687.tif",
+            "masks": "dataset/train/masks/687.tif"
+        },
+        {
+            "id": "556",
+            "image": "dataset/train/polyps/556.tif",
+            "masks": "dataset/train/masks/556.tif"
+        },
+        {
+            "id": "689",
+            "image": "dataset/train/polyps/689.tif",
+            "masks": "dataset/train/masks/689.tif"
+        },
+        {
+            "id": "91",
+            "image": "dataset/train/polyps/91.tif",
+            "masks": "dataset/train/masks/91.tif"
+        },
+        {
+            "id": "95",
+            "image": "dataset/train/polyps/95.tif",
+            "masks": "dataset/train/masks/95.tif"
+        },
+        {
+            "id": "185",
+            "image": "dataset/train/polyps/185.tif",
+            "masks": "dataset/train/masks/185.tif"
+        },
+        {
+            "id": "314",
+            "image": "dataset/train/polyps/314.tif",
+            "masks": "dataset/train/masks/314.tif"
+        },
+        {
+            "id": "674",
+            "image": "dataset/train/polyps/674.tif",
+            "masks": "dataset/train/masks/674.tif"
+        },
+        {
+            "id": "679",
+            "image": "dataset/train/polyps/679.tif",
+            "masks": "dataset/train/masks/679.tif"
+        },
+        {
+            "id": "197",
+            "image": "dataset/train/polyps/197.tif",
+            "masks": "dataset/train/masks/197.tif"
+        },
+        {
+            "id": "448",
+            "image": "dataset/train/polyps/448.tif",
+            "masks": "dataset/train/masks/448.tif"
+        },
+        {
+            "id": "698",
+            "image": "dataset/train/polyps/698.tif",
+            "masks": "dataset/train/masks/698.tif"
+        },
+        {
+            "id": "508",
+            "image": "dataset/train/polyps/508.tif",
+            "masks": "dataset/train/masks/508.tif"
+        },
+        {
+            "id": "350",
+            "image": "dataset/train/polyps/350.tif",
+            "masks": "dataset/train/masks/350.tif"
+        },
+        {
+            "id": "528",
+            "image": "dataset/train/polyps/528.tif",
+            "masks": "dataset/train/masks/528.tif"
+        },
+        {
+            "id": "770",
+            "image": "dataset/train/polyps/770.tif",
+            "masks": "dataset/train/masks/770.tif"
+        },
+        {
+            "id": "123",
+            "image": "dataset/train/polyps/123.tif",
+            "masks": "dataset/train/masks/123.tif"
+        },
+        {
+            "id": "393",
+            "image": "dataset/train/polyps/393.tif",
+            "masks": "dataset/train/masks/393.tif"
+        },
+        {
+            "id": "341",
+            "image": "dataset/train/polyps/341.tif",
+            "masks": "dataset/train/masks/341.tif"
+        },
+        {
+            "id": "737",
+            "image": "dataset/train/polyps/737.tif",
+            "masks": "dataset/train/masks/737.tif"
+        },
+        {
+            "id": "192",
+            "image": "dataset/train/polyps/192.tif",
+            "masks": "dataset/train/masks/192.tif"
+        },
+        {
+            "id": "529",
+            "image": "dataset/train/polyps/529.tif",
+            "masks": "dataset/train/masks/529.tif"
+        },
+        {
+            "id": "437",
+            "image": "dataset/train/polyps/437.tif",
+            "masks": "dataset/train/masks/437.tif"
+        },
+        {
+            "id": "726",
+            "image": "dataset/train/polyps/726.tif",
+            "masks": "dataset/train/masks/726.tif"
+        },
+        {
+            "id": "13",
+            "image": "dataset/train/polyps/13.tif",
+            "masks": "dataset/train/masks/13.tif"
+        },
+        {
+            "id": "330",
+            "image": "dataset/train/polyps/330.tif",
+            "masks": "dataset/train/masks/330.tif"
+        },
+        {
+            "id": "247",
+            "image": "dataset/train/polyps/247.tif",
+            "masks": "dataset/train/masks/247.tif"
+        },
+        {
+            "id": "138",
+            "image": "dataset/train/polyps/138.tif",
+            "masks": "dataset/train/masks/138.tif"
+        },
+        {
+            "id": "784",
+            "image": "dataset/train/polyps/784.tif",
+            "masks": "dataset/train/masks/784.tif"
+        },
+        {
+            "id": "664",
+            "image": "dataset/train/polyps/664.tif",
+            "masks": "dataset/train/masks/664.tif"
+        },
+        {
+            "id": "709",
+            "image": "dataset/train/polyps/709.tif",
+            "masks": "dataset/train/masks/709.tif"
+        },
+        {
+            "id": "251",
+            "image": "dataset/train/polyps/251.tif",
+            "masks": "dataset/train/masks/251.tif"
+        },
+        {
+            "id": "547",
+            "image": "dataset/train/polyps/547.tif",
+            "masks": "dataset/train/masks/547.tif"
+        },
+        {
+            "id": "553",
+            "image": "dataset/train/polyps/553.tif",
+            "masks": "dataset/train/masks/553.tif"
+        },
+        {
+            "id": "713",
+            "image": "dataset/train/polyps/713.tif",
+            "masks": "dataset/train/masks/713.tif"
+        },
+        {
+            "id": "598",
+            "image": "dataset/train/polyps/598.tif",
+            "masks": "dataset/train/masks/598.tif"
+        },
+        {
+            "id": "364",
+            "image": "dataset/train/polyps/364.tif",
+            "masks": "dataset/train/masks/364.tif"
+        },
+        {
+            "id": "1",
+            "image": "dataset/train/polyps/1.tif",
+            "masks": "dataset/train/masks/1.tif"
+        },
+        {
+            "id": "352",
+            "image": "dataset/train/polyps/352.tif",
+            "masks": "dataset/train/masks/352.tif"
+        },
+        {
+            "id": "190",
+            "image": "dataset/train/polyps/190.tif",
+            "masks": "dataset/train/masks/190.tif"
+        },
+        {
+            "id": "545",
+            "image": "dataset/train/polyps/545.tif",
+            "masks": "dataset/train/masks/545.tif"
+        },
+        {
+            "id": "269",
+            "image": "dataset/train/polyps/269.tif",
+            "masks": "dataset/train/masks/269.tif"
+        },
+        {
+            "id": "669",
+            "image": "dataset/train/polyps/669.tif",
+            "masks": "dataset/train/masks/669.tif"
+        },
+        {
+            "id": "290",
+            "image": "dataset/train/polyps/290.tif",
+            "masks": "dataset/train/masks/290.tif"
+        },
+        {
+            "id": "27",
+            "image": "dataset/train/polyps/27.tif",
+            "masks": "dataset/train/masks/27.tif"
+        },
+        {
+            "id": "651",
+            "image": "dataset/train/polyps/651.tif",
+            "masks": "dataset/train/masks/651.tif"
+        },
+        {
+            "id": "628",
+            "image": "dataset/train/polyps/628.tif",
+            "masks": "dataset/train/masks/628.tif"
+        },
+        {
+            "id": "696",
+            "image": "dataset/train/polyps/696.tif",
+            "masks": "dataset/train/masks/696.tif"
+        },
+        {
+            "id": "318",
+            "image": "dataset/train/polyps/318.tif",
+            "masks": "dataset/train/masks/318.tif"
+        },
+        {
+            "id": "403",
+            "image": "dataset/train/polyps/403.tif",
+            "masks": "dataset/train/masks/403.tif"
+        },
+        {
+            "id": "736",
+            "image": "dataset/train/polyps/736.tif",
+            "masks": "dataset/train/masks/736.tif"
+        },
+        {
+            "id": "574",
+            "image": "dataset/train/polyps/574.tif",
+            "masks": "dataset/train/masks/574.tif"
+        },
+        {
+            "id": "511",
+            "image": "dataset/train/polyps/511.tif",
+            "masks": "dataset/train/masks/511.tif"
+        },
+        {
+            "id": "612",
+            "image": "dataset/train/polyps/612.tif",
+            "masks": "dataset/train/masks/612.tif"
+        },
+        {
+            "id": "479",
+            "image": "dataset/train/polyps/479.tif",
+            "masks": "dataset/train/masks/479.tif"
+        },
+        {
+            "id": "490",
+            "image": "dataset/train/polyps/490.tif",
+            "masks": "dataset/train/masks/490.tif"
+        },
+        {
+            "id": "561",
+            "image": "dataset/train/polyps/561.tif",
+            "masks": "dataset/train/masks/561.tif"
+        },
+        {
+            "id": "557",
+            "image": "dataset/train/polyps/557.tif",
+            "masks": "dataset/train/masks/557.tif"
+        },
+        {
+            "id": "774",
+            "image": "dataset/train/polyps/774.tif",
+            "masks": "dataset/train/masks/774.tif"
+        },
+        {
+            "id": "460",
+            "image": "dataset/train/polyps/460.tif",
+            "masks": "dataset/train/masks/460.tif"
+        },
+        {
+            "id": "140",
+            "image": "dataset/train/polyps/140.tif",
+            "masks": "dataset/train/masks/140.tif"
+        },
+        {
+            "id": "492",
+            "image": "dataset/train/polyps/492.tif",
+            "masks": "dataset/train/masks/492.tif"
+        },
+        {
+            "id": "738",
+            "image": "dataset/train/polyps/738.tif",
+            "masks": "dataset/train/masks/738.tif"
+        },
+        {
+            "id": "579",
+            "image": "dataset/train/polyps/579.tif",
+            "masks": "dataset/train/masks/579.tif"
+        },
+        {
+            "id": "571",
+            "image": "dataset/train/polyps/571.tif",
+            "masks": "dataset/train/masks/571.tif"
+        },
+        {
+            "id": "675",
+            "image": "dataset/train/polyps/675.tif",
+            "masks": "dataset/train/masks/675.tif"
+        },
+        {
+            "id": "421",
+            "image": "dataset/train/polyps/421.tif",
+            "masks": "dataset/train/masks/421.tif"
+        },
+        {
+            "id": "10",
+            "image": "dataset/train/polyps/10.tif",
+            "masks": "dataset/train/masks/10.tif"
+        },
+        {
+            "id": "778",
+            "image": "dataset/train/polyps/778.tif",
+            "masks": "dataset/train/masks/778.tif"
+        },
+        {
+            "id": "246",
+            "image": "dataset/train/polyps/246.tif",
+            "masks": "dataset/train/masks/246.tif"
+        },
+        {
+            "id": "757",
+            "image": "dataset/train/polyps/757.tif",
+            "masks": "dataset/train/masks/757.tif"
+        },
+        {
+            "id": "513",
+            "image": "dataset/train/polyps/513.tif",
+            "masks": "dataset/train/masks/513.tif"
+        },
+        {
+            "id": "156",
+            "image": "dataset/train/polyps/156.tif",
+            "masks": "dataset/train/masks/156.tif"
+        },
+        {
+            "id": "30",
+            "image": "dataset/train/polyps/30.tif",
+            "masks": "dataset/train/masks/30.tif"
+        },
+        {
+            "id": "35",
+            "image": "dataset/train/polyps/35.tif",
+            "masks": "dataset/train/masks/35.tif"
+        },
+        {
+            "id": "563",
+            "image": "dataset/train/polyps/563.tif",
+            "masks": "dataset/train/masks/563.tif"
+        },
+        {
+            "id": "346",
+            "image": "dataset/train/polyps/346.tif",
+            "masks": "dataset/train/masks/346.tif"
+        },
+        {
+            "id": "310",
+            "image": "dataset/train/polyps/310.tif",
+            "masks": "dataset/train/masks/310.tif"
+        },
+        {
+            "id": "332",
+            "image": "dataset/train/polyps/332.tif",
+            "masks": "dataset/train/masks/332.tif"
+        },
+        {
+            "id": "205",
+            "image": "dataset/train/polyps/205.tif",
+            "masks": "dataset/train/masks/205.tif"
+        },
+        {
+            "id": "476",
+            "image": "dataset/train/polyps/476.tif",
+            "masks": "dataset/train/masks/476.tif"
+        },
+        {
+            "id": "657",
+            "image": "dataset/train/polyps/657.tif",
+            "masks": "dataset/train/masks/657.tif"
+        },
+        {
+            "id": "629",
+            "image": "dataset/train/polyps/629.tif",
+            "masks": "dataset/train/masks/629.tif"
+        },
+        {
+            "id": "462",
+            "image": "dataset/train/polyps/462.tif",
+            "masks": "dataset/train/masks/462.tif"
+        },
+        {
+            "id": "353",
+            "image": "dataset/train/polyps/353.tif",
+            "masks": "dataset/train/masks/353.tif"
+        },
+        {
+            "id": "489",
+            "image": "dataset/train/polyps/489.tif",
+            "masks": "dataset/train/masks/489.tif"
+        },
+        {
+            "id": "2",
+            "image": "dataset/train/polyps/2.tif",
+            "masks": "dataset/train/masks/2.tif"
+        },
+        {
+            "id": "730",
+            "image": "dataset/train/polyps/730.tif",
+            "masks": "dataset/train/masks/730.tif"
+        },
+        {
+            "id": "636",
+            "image": "dataset/train/polyps/636.tif",
+            "masks": "dataset/train/masks/636.tif"
+        },
+        {
+            "id": "536",
+            "image": "dataset/train/polyps/536.tif",
+            "masks": "dataset/train/masks/536.tif"
+        },
+        {
+            "id": "433",
+            "image": "dataset/train/polyps/433.tif",
+            "masks": "dataset/train/masks/433.tif"
+        },
+        {
+            "id": "677",
+            "image": "dataset/train/polyps/677.tif",
+            "masks": "dataset/train/masks/677.tif"
+        },
+        {
+            "id": "281",
+            "image": "dataset/train/polyps/281.tif",
+            "masks": "dataset/train/masks/281.tif"
+        },
+        {
+            "id": "151",
+            "image": "dataset/train/polyps/151.tif",
+            "masks": "dataset/train/masks/151.tif"
+        },
+        {
+            "id": "272",
+            "image": "dataset/train/polyps/272.tif",
+            "masks": "dataset/train/masks/272.tif"
+        },
+        {
+            "id": "105",
+            "image": "dataset/train/polyps/105.tif",
+            "masks": "dataset/train/masks/105.tif"
+        },
+        {
+            "id": "6",
+            "image": "dataset/train/polyps/6.tif",
+            "masks": "dataset/train/masks/6.tif"
+        },
+        {
+            "id": "507",
+            "image": "dataset/train/polyps/507.tif",
+            "masks": "dataset/train/masks/507.tif"
+        },
+        {
+            "id": "767",
+            "image": "dataset/train/polyps/767.tif",
+            "masks": "dataset/train/masks/767.tif"
+        },
+        {
+            "id": "685",
+            "image": "dataset/train/polyps/685.tif",
+            "masks": "dataset/train/masks/685.tif"
+        },
+        {
+            "id": "275",
+            "image": "dataset/train/polyps/275.tif",
+            "masks": "dataset/train/masks/275.tif"
+        },
+        {
+            "id": "472",
+            "image": "dataset/train/polyps/472.tif",
+            "masks": "dataset/train/masks/472.tif"
+        },
+        {
+            "id": "99",
+            "image": "dataset/train/polyps/99.tif",
+            "masks": "dataset/train/masks/99.tif"
+        },
+        {
+            "id": "763",
+            "image": "dataset/train/polyps/763.tif",
+            "masks": "dataset/train/masks/763.tif"
+        },
+        {
+            "id": "62",
+            "image": "dataset/train/polyps/62.tif",
+            "masks": "dataset/train/masks/62.tif"
+        },
+        {
+            "id": "85",
+            "image": "dataset/train/polyps/85.tif",
+            "masks": "dataset/train/masks/85.tif"
+        },
+        {
+            "id": "122",
+            "image": "dataset/train/polyps/122.tif",
+            "masks": "dataset/train/masks/122.tif"
+        },
+        {
+            "id": "527",
+            "image": "dataset/train/polyps/527.tif",
+            "masks": "dataset/train/masks/527.tif"
+        },
+        {
+            "id": "376",
+            "image": "dataset/train/polyps/376.tif",
+            "masks": "dataset/train/masks/376.tif"
+        },
+        {
+            "id": "733",
+            "image": "dataset/train/polyps/733.tif",
+            "masks": "dataset/train/masks/733.tif"
+        },
+        {
+            "id": "428",
+            "image": "dataset/train/polyps/428.tif",
+            "masks": "dataset/train/masks/428.tif"
+        },
+        {
+            "id": "741",
+            "image": "dataset/train/polyps/741.tif",
+            "masks": "dataset/train/masks/741.tif"
+        },
+        {
+            "id": "768",
+            "image": "dataset/train/polyps/768.tif",
+            "masks": "dataset/train/masks/768.tif"
+        },
+        {
+            "id": "782",
+            "image": "dataset/train/polyps/782.tif",
+            "masks": "dataset/train/masks/782.tif"
+        },
+        {
+            "id": "771",
+            "image": "dataset/train/polyps/771.tif",
+            "masks": "dataset/train/masks/771.tif"
+        },
+        {
+            "id": "663",
+            "image": "dataset/train/polyps/663.tif",
+            "masks": "dataset/train/masks/663.tif"
+        },
+        {
+            "id": "273",
+            "image": "dataset/train/polyps/273.tif",
+            "masks": "dataset/train/masks/273.tif"
+        },
+        {
+            "id": "243",
+            "image": "dataset/train/polyps/243.tif",
+            "masks": "dataset/train/masks/243.tif"
+        },
+        {
+            "id": "61",
+            "image": "dataset/train/polyps/61.tif",
+            "masks": "dataset/train/masks/61.tif"
+        },
+        {
+            "id": "463",
+            "image": "dataset/train/polyps/463.tif",
+            "masks": "dataset/train/masks/463.tif"
+        },
+        {
+            "id": "581",
+            "image": "dataset/train/polyps/581.tif",
+            "masks": "dataset/train/masks/581.tif"
+        },
+        {
+            "id": "189",
+            "image": "dataset/train/polyps/189.tif",
+            "masks": "dataset/train/masks/189.tif"
+        },
+        {
+            "id": "166",
+            "image": "dataset/train/polyps/166.tif",
+            "masks": "dataset/train/masks/166.tif"
+        },
+        {
+            "id": "75",
+            "image": "dataset/train/polyps/75.tif",
+            "masks": "dataset/train/masks/75.tif"
+        },
+        {
+            "id": "523",
+            "image": "dataset/train/polyps/523.tif",
+            "masks": "dataset/train/masks/523.tif"
+        },
+        {
+            "id": "345",
+            "image": "dataset/train/polyps/345.tif",
+            "masks": "dataset/train/masks/345.tif"
+        },
+        {
+            "id": "549",
+            "image": "dataset/train/polyps/549.tif",
+            "masks": "dataset/train/masks/549.tif"
+        },
+        {
+            "id": "38",
+            "image": "dataset/train/polyps/38.tif",
+            "masks": "dataset/train/masks/38.tif"
+        },
+        {
+            "id": "299",
+            "image": "dataset/train/polyps/299.tif",
+            "masks": "dataset/train/masks/299.tif"
+        },
+        {
+            "id": "137",
+            "image": "dataset/train/polyps/137.tif",
+            "masks": "dataset/train/masks/137.tif"
+        },
+        {
+            "id": "725",
+            "image": "dataset/train/polyps/725.tif",
+            "masks": "dataset/train/masks/725.tif"
+        },
+        {
+            "id": "33",
+            "image": "dataset/train/polyps/33.tif",
+            "masks": "dataset/train/masks/33.tif"
+        },
+        {
+            "id": "101",
+            "image": "dataset/train/polyps/101.tif",
+            "masks": "dataset/train/masks/101.tif"
+        },
+        {
+            "id": "660",
+            "image": "dataset/train/polyps/660.tif",
+            "masks": "dataset/train/masks/660.tif"
+        },
+        {
+            "id": "296",
+            "image": "dataset/train/polyps/296.tif",
+            "masks": "dataset/train/masks/296.tif"
+        },
+        {
+            "id": "525",
+            "image": "dataset/train/polyps/525.tif",
+            "masks": "dataset/train/masks/525.tif"
+        },
+        {
+            "id": "324",
+            "image": "dataset/train/polyps/324.tif",
+            "masks": "dataset/train/masks/324.tif"
+        },
+        {
+            "id": "347",
+            "image": "dataset/train/polyps/347.tif",
+            "masks": "dataset/train/masks/347.tif"
+        },
+        {
+            "id": "400",
+            "image": "dataset/train/polyps/400.tif",
+            "masks": "dataset/train/masks/400.tif"
+        },
+        {
+            "id": "37",
+            "image": "dataset/train/polyps/37.tif",
+            "masks": "dataset/train/masks/37.tif"
+        },
+        {
+            "id": "220",
+            "image": "dataset/train/polyps/220.tif",
+            "masks": "dataset/train/masks/220.tif"
+        },
+        {
+            "id": "175",
+            "image": "dataset/train/polyps/175.tif",
+            "masks": "dataset/train/masks/175.tif"
+        },
+        {
+            "id": "769",
+            "image": "dataset/train/polyps/769.tif",
+            "masks": "dataset/train/masks/769.tif"
+        },
+        {
+            "id": "749",
+            "image": "dataset/train/polyps/749.tif",
+            "masks": "dataset/train/masks/749.tif"
+        },
+        {
+            "id": "509",
+            "image": "dataset/train/polyps/509.tif",
+            "masks": "dataset/train/masks/509.tif"
+        },
+        {
+            "id": "501",
+            "image": "dataset/train/polyps/501.tif",
+            "masks": "dataset/train/masks/501.tif"
+        },
+        {
+            "id": "621",
+            "image": "dataset/train/polyps/621.tif",
+            "masks": "dataset/train/masks/621.tif"
+        },
+        {
+            "id": "568",
+            "image": "dataset/train/polyps/568.tif",
+            "masks": "dataset/train/masks/568.tif"
+        },
+        {
+            "id": "34",
+            "image": "dataset/train/polyps/34.tif",
+            "masks": "dataset/train/masks/34.tif"
+        },
+        {
+            "id": "533",
+            "image": "dataset/train/polyps/533.tif",
+            "masks": "dataset/train/masks/533.tif"
+        },
+        {
+            "id": "535",
+            "image": "dataset/train/polyps/535.tif",
+            "masks": "dataset/train/masks/535.tif"
+        },
+        {
+            "id": "787",
+            "image": "dataset/train/polyps/787.tif",
+            "masks": "dataset/train/masks/787.tif"
+        },
+        {
+            "id": "180",
+            "image": "dataset/train/polyps/180.tif",
+            "masks": "dataset/train/masks/180.tif"
+        },
+        {
+            "id": "292",
+            "image": "dataset/train/polyps/292.tif",
+            "masks": "dataset/train/masks/292.tif"
+        },
+        {
+            "id": "226",
+            "image": "dataset/train/polyps/226.tif",
+            "masks": "dataset/train/masks/226.tif"
+        },
+        {
+            "id": "218",
+            "image": "dataset/train/polyps/218.tif",
+            "masks": "dataset/train/masks/218.tif"
+        },
+        {
+            "id": "610",
+            "image": "dataset/train/polyps/610.tif",
+            "masks": "dataset/train/masks/610.tif"
+        },
+        {
+            "id": "487",
+            "image": "dataset/train/polyps/487.tif",
+            "masks": "dataset/train/masks/487.tif"
+        },
+        {
+            "id": "594",
+            "image": "dataset/train/polyps/594.tif",
+            "masks": "dataset/train/masks/594.tif"
+        },
+        {
+            "id": "505",
+            "image": "dataset/train/polyps/505.tif",
+            "masks": "dataset/train/masks/505.tif"
+        },
+        {
+            "id": "45",
+            "image": "dataset/train/polyps/45.tif",
+            "masks": "dataset/train/masks/45.tif"
+        },
+        {
+            "id": "728",
+            "image": "dataset/train/polyps/728.tif",
+            "masks": "dataset/train/masks/728.tif"
+        },
+        {
+            "id": "73",
+            "image": "dataset/train/polyps/73.tif",
+            "masks": "dataset/train/masks/73.tif"
+        },
+        {
+            "id": "380",
+            "image": "dataset/train/polyps/380.tif",
+            "masks": "dataset/train/masks/380.tif"
+        },
+        {
+            "id": "184",
+            "image": "dataset/train/polyps/184.tif",
+            "masks": "dataset/train/masks/184.tif"
+        },
+        {
+            "id": "127",
+            "image": "dataset/train/polyps/127.tif",
+            "masks": "dataset/train/masks/127.tif"
+        },
+        {
+            "id": "650",
+            "image": "dataset/train/polyps/650.tif",
+            "masks": "dataset/train/masks/650.tif"
+        },
+        {
+            "id": "155",
+            "image": "dataset/train/polyps/155.tif",
+            "masks": "dataset/train/masks/155.tif"
+        },
+        {
+            "id": "431",
+            "image": "dataset/train/polyps/431.tif",
+            "masks": "dataset/train/masks/431.tif"
+        },
+        {
+            "id": "457",
+            "image": "dataset/train/polyps/457.tif",
+            "masks": "dataset/train/masks/457.tif"
+        },
+        {
+            "id": "495",
+            "image": "dataset/train/polyps/495.tif",
+            "masks": "dataset/train/masks/495.tif"
+        },
+        {
+            "id": "780",
+            "image": "dataset/train/polyps/780.tif",
+            "masks": "dataset/train/masks/780.tif"
+        },
+        {
+            "id": "615",
+            "image": "dataset/train/polyps/615.tif",
+            "masks": "dataset/train/masks/615.tif"
+        },
+        {
+            "id": "702",
+            "image": "dataset/train/polyps/702.tif",
+            "masks": "dataset/train/masks/702.tif"
+        },
+        {
+            "id": "623",
+            "image": "dataset/train/polyps/623.tif",
+            "masks": "dataset/train/masks/623.tif"
+        },
+        {
+            "id": "530",
+            "image": "dataset/train/polyps/530.tif",
+            "masks": "dataset/train/masks/530.tif"
+        },
+        {
+            "id": "219",
+            "image": "dataset/train/polyps/219.tif",
+            "masks": "dataset/train/masks/219.tif"
+        },
+        {
+            "id": "267",
+            "image": "dataset/train/polyps/267.tif",
+            "masks": "dataset/train/masks/267.tif"
+        },
+        {
+            "id": "124",
+            "image": "dataset/train/polyps/124.tif",
+            "masks": "dataset/train/masks/124.tif"
+        },
+        {
+            "id": "588",
+            "image": "dataset/train/polyps/588.tif",
+            "masks": "dataset/train/masks/588.tif"
+        },
+        {
+            "id": "338",
+            "image": "dataset/train/polyps/338.tif",
+            "masks": "dataset/train/masks/338.tif"
+        },
+        {
+            "id": "744",
+            "image": "dataset/train/polyps/744.tif",
+            "masks": "dataset/train/masks/744.tif"
+        },
+        {
+            "id": "47",
+            "image": "dataset/train/polyps/47.tif",
+            "masks": "dataset/train/masks/47.tif"
+        },
+        {
+            "id": "654",
+            "image": "dataset/train/polyps/654.tif",
+            "masks": "dataset/train/masks/654.tif"
+        },
+        {
+            "id": "566",
+            "image": "dataset/train/polyps/566.tif",
+            "masks": "dataset/train/masks/566.tif"
+        },
+        {
+            "id": "125",
+            "image": "dataset/train/polyps/125.tif",
+            "masks": "dataset/train/masks/125.tif"
+        },
+        {
+            "id": "578",
+            "image": "dataset/train/polyps/578.tif",
+            "masks": "dataset/train/masks/578.tif"
+        },
+        {
+            "id": "515",
+            "image": "dataset/train/polyps/515.tif",
+            "masks": "dataset/train/masks/515.tif"
+        },
+        {
+            "id": "343",
+            "image": "dataset/train/polyps/343.tif",
+            "masks": "dataset/train/masks/343.tif"
+        },
+        {
+            "id": "3",
+            "image": "dataset/train/polyps/3.tif",
+            "masks": "dataset/train/masks/3.tif"
+        },
+        {
+            "id": "398",
+            "image": "dataset/train/polyps/398.tif",
+            "masks": "dataset/train/masks/398.tif"
+        },
+        {
+            "id": "263",
+            "image": "dataset/train/polyps/263.tif",
+            "masks": "dataset/train/masks/263.tif"
+        },
+        {
+            "id": "231",
+            "image": "dataset/train/polyps/231.tif",
+            "masks": "dataset/train/masks/231.tif"
+        },
+        {
+            "id": "92",
+            "image": "dataset/train/polyps/92.tif",
+            "masks": "dataset/train/masks/92.tif"
+        },
+        {
+            "id": "417",
+            "image": "dataset/train/polyps/417.tif",
+            "masks": "dataset/train/masks/417.tif"
+        },
+        {
+            "id": "68",
+            "image": "dataset/train/polyps/68.tif",
+            "masks": "dataset/train/masks/68.tif"
+        },
+        {
+            "id": "766",
+            "image": "dataset/train/polyps/766.tif",
+            "masks": "dataset/train/masks/766.tif"
+        },
+        {
+            "id": "524",
+            "image": "dataset/train/polyps/524.tif",
+            "masks": "dataset/train/masks/524.tif"
+        },
+        {
+            "id": "94",
+            "image": "dataset/train/polyps/94.tif",
+            "masks": "dataset/train/masks/94.tif"
+        },
+        {
+            "id": "88",
+            "image": "dataset/train/polyps/88.tif",
+            "masks": "dataset/train/masks/88.tif"
+        },
+        {
+            "id": "655",
+            "image": "dataset/train/polyps/655.tif",
+            "masks": "dataset/train/masks/655.tif"
+        },
+        {
+            "id": "115",
+            "image": "dataset/train/polyps/115.tif",
+            "masks": "dataset/train/masks/115.tif"
+        },
+        {
+            "id": "680",
+            "image": "dataset/train/polyps/680.tif",
+            "masks": "dataset/train/masks/680.tif"
+        },
+        {
+            "id": "179",
+            "image": "dataset/train/polyps/179.tif",
+            "masks": "dataset/train/masks/179.tif"
+        },
+        {
+            "id": "224",
+            "image": "dataset/train/polyps/224.tif",
+            "masks": "dataset/train/masks/224.tif"
+        },
+        {
+            "id": "611",
+            "image": "dataset/train/polyps/611.tif",
+            "masks": "dataset/train/masks/611.tif"
+        },
+        {
+            "id": "740",
+            "image": "dataset/train/polyps/740.tif",
+            "masks": "dataset/train/masks/740.tif"
+        },
+        {
+            "id": "284",
+            "image": "dataset/train/polyps/284.tif",
+            "masks": "dataset/train/masks/284.tif"
+        },
+        {
+            "id": "279",
+            "image": "dataset/train/polyps/279.tif",
+            "masks": "dataset/train/masks/279.tif"
+        },
+        {
+            "id": "453",
+            "image": "dataset/train/polyps/453.tif",
+            "masks": "dataset/train/masks/453.tif"
+        },
+        {
+            "id": "682",
+            "image": "dataset/train/polyps/682.tif",
+            "masks": "dataset/train/masks/682.tif"
+        },
+        {
+            "id": "200",
+            "image": "dataset/train/polyps/200.tif",
+            "masks": "dataset/train/masks/200.tif"
+        },
+        {
+            "id": "215",
+            "image": "dataset/train/polyps/215.tif",
+            "masks": "dataset/train/masks/215.tif"
+        },
+        {
+            "id": "256",
+            "image": "dataset/train/polyps/256.tif",
+            "masks": "dataset/train/masks/256.tif"
+        },
+        {
+            "id": "469",
+            "image": "dataset/train/polyps/469.tif",
+            "masks": "dataset/train/masks/469.tif"
+        },
+        {
+            "id": "572",
+            "image": "dataset/train/polyps/572.tif",
+            "masks": "dataset/train/masks/572.tif"
+        },
+        {
+            "id": "17",
+            "image": "dataset/train/polyps/17.tif",
+            "masks": "dataset/train/masks/17.tif"
+        },
+        {
+            "id": "627",
+            "image": "dataset/train/polyps/627.tif",
+            "masks": "dataset/train/masks/627.tif"
+        },
+        {
+            "id": "193",
+            "image": "dataset/train/polyps/193.tif",
+            "masks": "dataset/train/masks/193.tif"
+        },
+        {
+            "id": "466",
+            "image": "dataset/train/polyps/466.tif",
+            "masks": "dataset/train/masks/466.tif"
+        },
+        {
+            "id": "493",
+            "image": "dataset/train/polyps/493.tif",
+            "masks": "dataset/train/masks/493.tif"
+        },
+        {
+            "id": "217",
+            "image": "dataset/train/polyps/217.tif",
+            "masks": "dataset/train/masks/217.tif"
+        },
+        {
+            "id": "389",
+            "image": "dataset/train/polyps/389.tif",
+            "masks": "dataset/train/masks/389.tif"
+        },
+        {
+            "id": "145",
+            "image": "dataset/train/polyps/145.tif",
+            "masks": "dataset/train/masks/145.tif"
+        },
+        {
+            "id": "327",
+            "image": "dataset/train/polyps/327.tif",
+            "masks": "dataset/train/masks/327.tif"
+        },
+        {
+            "id": "298",
+            "image": "dataset/train/polyps/298.tif",
+            "masks": "dataset/train/masks/298.tif"
+        },
+        {
+            "id": "148",
+            "image": "dataset/train/polyps/148.tif",
+            "masks": "dataset/train/masks/148.tif"
+        },
+        {
+            "id": "222",
+            "image": "dataset/train/polyps/222.tif",
+            "masks": "dataset/train/masks/222.tif"
+        },
+        {
+            "id": "46",
+            "image": "dataset/train/polyps/46.tif",
+            "masks": "dataset/train/masks/46.tif"
+        },
+        {
+            "id": "168",
+            "image": "dataset/train/polyps/168.tif",
+            "masks": "dataset/train/masks/168.tif"
+        },
+        {
+            "id": "607",
+            "image": "dataset/train/polyps/607.tif",
+            "masks": "dataset/train/masks/607.tif"
+        },
+        {
+            "id": "699",
+            "image": "dataset/train/polyps/699.tif",
+            "masks": "dataset/train/masks/699.tif"
+        },
+        {
+            "id": "265",
+            "image": "dataset/train/polyps/265.tif",
+            "masks": "dataset/train/masks/265.tif"
+        },
+        {
+            "id": "630",
+            "image": "dataset/train/polyps/630.tif",
+            "masks": "dataset/train/masks/630.tif"
+        },
+        {
+            "id": "558",
+            "image": "dataset/train/polyps/558.tif",
+            "masks": "dataset/train/masks/558.tif"
+        },
+        {
+            "id": "356",
+            "image": "dataset/train/polyps/356.tif",
+            "masks": "dataset/train/masks/356.tif"
+        },
+        {
+            "id": "362",
+            "image": "dataset/train/polyps/362.tif",
+            "masks": "dataset/train/masks/362.tif"
+        },
+        {
+            "id": "313",
+            "image": "dataset/train/polyps/313.tif",
+            "masks": "dataset/train/masks/313.tif"
+        },
+        {
+            "id": "668",
+            "image": "dataset/train/polyps/668.tif",
+            "masks": "dataset/train/masks/668.tif"
+        },
+        {
+            "id": "539",
+            "image": "dataset/train/polyps/539.tif",
+            "masks": "dataset/train/masks/539.tif"
+        },
+        {
+            "id": "695",
+            "image": "dataset/train/polyps/695.tif",
+            "masks": "dataset/train/masks/695.tif"
+        },
+        {
+            "id": "399",
+            "image": "dataset/train/polyps/399.tif",
+            "masks": "dataset/train/masks/399.tif"
+        }
+    ]
+}

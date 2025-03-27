@@ -1,0 +1,569 @@
+{
+    "images": [
+        {
+            "id": "21",
+            "image": "dataset/val/polyps/21.tif",
+            "masks": "dataset/val/masks/21.tif"
+        },
+        {
+            "id": "80",
+            "image": "dataset/val/polyps/80.tif",
+            "masks": "dataset/val/masks/80.tif"
+        },
+        {
+            "id": "29",
+            "image": "dataset/val/polyps/29.tif",
+            "masks": "dataset/val/masks/29.tif"
+        },
+        {
+            "id": "57",
+            "image": "dataset/val/polyps/57.tif",
+            "masks": "dataset/val/masks/57.tif"
+        },
+        {
+            "id": "81",
+            "image": "dataset/val/polyps/81.tif",
+            "masks": "dataset/val/masks/81.tif"
+        },
+        {
+            "id": "74",
+            "image": "dataset/val/polyps/74.tif",
+            "masks": "dataset/val/masks/74.tif"
+        },
+        {
+            "id": "77",
+            "image": "dataset/val/polyps/77.tif",
+            "masks": "dataset/val/masks/77.tif"
+        },
+        {
+            "id": "28",
+            "image": "dataset/val/polyps/28.tif",
+            "masks": "dataset/val/masks/28.tif"
+        },
+        {
+            "id": "32",
+            "image": "dataset/val/polyps/32.tif",
+            "masks": "dataset/val/masks/32.tif"
+        },
+        {
+            "id": "71",
+            "image": "dataset/val/polyps/71.tif",
+            "masks": "dataset/val/masks/71.tif"
+        },
+        {
+            "id": "26",
+            "image": "dataset/val/polyps/26.tif",
+            "masks": "dataset/val/masks/26.tif"
+        },
+        {
+            "id": "53",
+            "image": "dataset/val/polyps/53.tif",
+            "masks": "dataset/val/masks/53.tif"
+        },
+        {
+            "id": "18",
+            "image": "dataset/val/polyps/18.tif",
+            "masks": "dataset/val/masks/18.tif"
+        },
+        {
+            "id": "4",
+            "image": "dataset/val/polyps/4.tif",
+            "masks": "dataset/val/masks/4.tif"
+        },
+        {
+            "id": "20",
+            "image": "dataset/val/polyps/20.tif",
+            "masks": "dataset/val/masks/20.tif"
+        },
+        {
+            "id": "86",
+            "image": "dataset/val/polyps/86.tif",
+            "masks": "dataset/val/masks/86.tif"
+        },
+        {
+            "id": "83",
+            "image": "dataset/val/polyps/83.tif",
+            "masks": "dataset/val/masks/83.tif"
+        },
+        {
+            "id": "24",
+            "image": "dataset/val/polyps/24.tif",
+            "masks": "dataset/val/masks/24.tif"
+        },
+        {
+            "id": "36",
+            "image": "dataset/val/polyps/36.tif",
+            "masks": "dataset/val/masks/36.tif"
+        },
+        {
+            "id": "87",
+            "image": "dataset/val/polyps/87.tif",
+            "masks": "dataset/val/masks/87.tif"
+        },
+        {
+            "id": "16",
+            "image": "dataset/val/polyps/16.tif",
+            "masks": "dataset/val/masks/16.tif"
+        },
+        {
+            "id": "48",
+            "image": "dataset/val/polyps/48.tif",
+            "masks": "dataset/val/masks/48.tif"
+        },
+        {
+            "id": "110",
+            "image": "dataset/val/polyps/110.tif",
+            "masks": "dataset/val/masks/110.tif"
+        },
+        {
+            "id": "0",
+            "image": "dataset/val/polyps/0.tif",
+            "masks": "dataset/val/masks/0.tif"
+        },
+        {
+            "id": "40",
+            "image": "dataset/val/polyps/40.tif",
+            "masks": "dataset/val/masks/40.tif"
+        },
+        {
+            "id": "59",
+            "image": "dataset/val/polyps/59.tif",
+            "masks": "dataset/val/masks/59.tif"
+        },
+        {
+            "id": "39",
+            "image": "dataset/val/polyps/39.tif",
+            "masks": "dataset/val/masks/39.tif"
+        },
+        {
+            "id": "54",
+            "image": "dataset/val/polyps/54.tif",
+            "masks": "dataset/val/masks/54.tif"
+        },
+        {
+            "id": "8",
+            "image": "dataset/val/polyps/8.tif",
+            "masks": "dataset/val/masks/8.tif"
+        },
+        {
+            "id": "43",
+            "image": "dataset/val/polyps/43.tif",
+            "masks": "dataset/val/masks/43.tif"
+        },
+        {
+            "id": "93",
+            "image": "dataset/val/polyps/93.tif",
+            "masks": "dataset/val/masks/93.tif"
+        },
+        {
+            "id": "67",
+            "image": "dataset/val/polyps/67.tif",
+            "masks": "dataset/val/masks/67.tif"
+        },
+        {
+            "id": "55",
+            "image": "dataset/val/polyps/55.tif",
+            "masks": "dataset/val/masks/55.tif"
+        },
+        {
+            "id": "66",
+            "image": "dataset/val/polyps/66.tif",
+            "masks": "dataset/val/masks/66.tif"
+        },
+        {
+            "id": "98",
+            "image": "dataset/val/polyps/98.tif",
+            "masks": "dataset/val/masks/98.tif"
+        },
+        {
+            "id": "107",
+            "image": "dataset/val/polyps/107.tif",
+            "masks": "dataset/val/masks/107.tif"
+        },
+        {
+            "id": "11",
+            "image": "dataset/val/polyps/11.tif",
+            "masks": "dataset/val/masks/11.tif"
+        },
+        {
+            "id": "60",
+            "image": "dataset/val/polyps/60.tif",
+            "masks": "dataset/val/masks/60.tif"
+        },
+        {
+            "id": "97",
+            "image": "dataset/val/polyps/97.tif",
+            "masks": "dataset/val/masks/97.tif"
+        },
+        {
+            "id": "104",
+            "image": "dataset/val/polyps/104.tif",
+            "masks": "dataset/val/masks/104.tif"
+        },
+        {
+            "id": "14",
+            "image": "dataset/val/polyps/14.tif",
+            "masks": "dataset/val/masks/14.tif"
+        },
+        {
+            "id": "63",
+            "image": "dataset/val/polyps/63.tif",
+            "masks": "dataset/val/masks/63.tif"
+        },
+        {
+            "id": "50",
+            "image": "dataset/val/polyps/50.tif",
+            "masks": "dataset/val/masks/50.tif"
+        },
+        {
+            "id": "69",
+            "image": "dataset/val/polyps/69.tif",
+            "masks": "dataset/val/masks/69.tif"
+        },
+        {
+            "id": "76",
+            "image": "dataset/val/polyps/76.tif",
+            "masks": "dataset/val/masks/76.tif"
+        },
+        {
+            "id": "25",
+            "image": "dataset/val/polyps/25.tif",
+            "masks": "dataset/val/masks/25.tif"
+        },
+        {
+            "id": "100",
+            "image": "dataset/val/polyps/100.tif",
+            "masks": "dataset/val/masks/100.tif"
+        },
+        {
+            "id": "103",
+            "image": "dataset/val/polyps/103.tif",
+            "masks": "dataset/val/masks/103.tif"
+        },
+        {
+            "id": "31",
+            "image": "dataset/val/polyps/31.tif",
+            "masks": "dataset/val/masks/31.tif"
+        },
+        {
+            "id": "96",
+            "image": "dataset/val/polyps/96.tif",
+            "masks": "dataset/val/masks/96.tif"
+        },
+        {
+            "id": "102",
+            "image": "dataset/val/polyps/102.tif",
+            "masks": "dataset/val/masks/102.tif"
+        },
+        {
+            "id": "78",
+            "image": "dataset/val/polyps/78.tif",
+            "masks": "dataset/val/masks/78.tif"
+        },
+        {
+            "id": "52",
+            "image": "dataset/val/polyps/52.tif",
+            "masks": "dataset/val/masks/52.tif"
+        },
+        {
+            "id": "51",
+            "image": "dataset/val/polyps/51.tif",
+            "masks": "dataset/val/masks/51.tif"
+        },
+        {
+            "id": "5",
+            "image": "dataset/val/polyps/5.tif",
+            "masks": "dataset/val/masks/5.tif"
+        },
+        {
+            "id": "111",
+            "image": "dataset/val/polyps/111.tif",
+            "masks": "dataset/val/masks/111.tif"
+        },
+        {
+            "id": "106",
+            "image": "dataset/val/polyps/106.tif",
+            "masks": "dataset/val/masks/106.tif"
+        },
+        {
+            "id": "9",
+            "image": "dataset/val/polyps/9.tif",
+            "masks": "dataset/val/masks/9.tif"
+        },
+        {
+            "id": "64",
+            "image": "dataset/val/polyps/64.tif",
+            "masks": "dataset/val/masks/64.tif"
+        },
+        {
+            "id": "72",
+            "image": "dataset/val/polyps/72.tif",
+            "masks": "dataset/val/masks/72.tif"
+        },
+        {
+            "id": "109",
+            "image": "dataset/val/polyps/109.tif",
+            "masks": "dataset/val/masks/109.tif"
+        },
+        {
+            "id": "19",
+            "image": "dataset/val/polyps/19.tif",
+            "masks": "dataset/val/masks/19.tif"
+        },
+        {
+            "id": "112",
+            "image": "dataset/val/polyps/112.tif",
+            "masks": "dataset/val/masks/112.tif"
+        },
+        {
+            "id": "89",
+            "image": "dataset/val/polyps/89.tif",
+            "masks": "dataset/val/masks/89.tif"
+        },
+        {
+            "id": "42",
+            "image": "dataset/val/polyps/42.tif",
+            "masks": "dataset/val/masks/42.tif"
+        },
+        {
+            "id": "65",
+            "image": "dataset/val/polyps/65.tif",
+            "masks": "dataset/val/masks/65.tif"
+        },
+        {
+            "id": "56",
+            "image": "dataset/val/polyps/56.tif",
+            "masks": "dataset/val/masks/56.tif"
+        },
+        {
+            "id": "22",
+            "image": "dataset/val/polyps/22.tif",
+            "masks": "dataset/val/masks/22.tif"
+        },
+        {
+            "id": "108",
+            "image": "dataset/val/polyps/108.tif",
+            "masks": "dataset/val/masks/108.tif"
+        },
+        {
+            "id": "84",
+            "image": "dataset/val/polyps/84.tif",
+            "masks": "dataset/val/masks/84.tif"
+        },
+        {
+            "id": "49",
+            "image": "dataset/val/polyps/49.tif",
+            "masks": "dataset/val/masks/49.tif"
+        },
+        {
+            "id": "79",
+            "image": "dataset/val/polyps/79.tif",
+            "masks": "dataset/val/masks/79.tif"
+        },
+        {
+            "id": "7",
+            "image": "dataset/val/polyps/7.tif",
+            "masks": "dataset/val/masks/7.tif"
+        },
+        {
+            "id": "12",
+            "image": "dataset/val/polyps/12.tif",
+            "masks": "dataset/val/masks/12.tif"
+        },
+        {
+            "id": "23",
+            "image": "dataset/val/polyps/23.tif",
+            "masks": "dataset/val/masks/23.tif"
+        },
+        {
+            "id": "58",
+            "image": "dataset/val/polyps/58.tif",
+            "masks": "dataset/val/masks/58.tif"
+        },
+        {
+            "id": "41",
+            "image": "dataset/val/polyps/41.tif",
+            "masks": "dataset/val/masks/41.tif"
+        },
+        {
+            "id": "82",
+            "image": "dataset/val/polyps/82.tif",
+            "masks": "dataset/val/masks/82.tif"
+        },
+        {
+            "id": "44",
+            "image": "dataset/val/polyps/44.tif",
+            "masks": "dataset/val/masks/44.tif"
+        },
+        {
+            "id": "70",
+            "image": "dataset/val/polyps/70.tif",
+            "masks": "dataset/val/masks/70.tif"
+        },
+        {
+            "id": "90",
+            "image": "dataset/val/polyps/90.tif",
+            "masks": "dataset/val/masks/90.tif"
+        },
+        {
+            "id": "15",
+            "image": "dataset/val/polyps/15.tif",
+            "masks": "dataset/val/masks/15.tif"
+        },
+        {
+            "id": "91",
+            "image": "dataset/val/polyps/91.tif",
+            "masks": "dataset/val/masks/91.tif"
+        },
+        {
+            "id": "95",
+            "image": "dataset/val/polyps/95.tif",
+            "masks": "dataset/val/masks/95.tif"
+        },
+        {
+            "id": "13",
+            "image": "dataset/val/polyps/13.tif",
+            "masks": "dataset/val/masks/13.tif"
+        },
+        {
+            "id": "1",
+            "image": "dataset/val/polyps/1.tif",
+            "masks": "dataset/val/masks/1.tif"
+        },
+        {
+            "id": "27",
+            "image": "dataset/val/polyps/27.tif",
+            "masks": "dataset/val/masks/27.tif"
+        },
+        {
+            "id": "10",
+            "image": "dataset/val/polyps/10.tif",
+            "masks": "dataset/val/masks/10.tif"
+        },
+        {
+            "id": "30",
+            "image": "dataset/val/polyps/30.tif",
+            "masks": "dataset/val/masks/30.tif"
+        },
+        {
+            "id": "35",
+            "image": "dataset/val/polyps/35.tif",
+            "masks": "dataset/val/masks/35.tif"
+        },
+        {
+            "id": "2",
+            "image": "dataset/val/polyps/2.tif",
+            "masks": "dataset/val/masks/2.tif"
+        },
+        {
+            "id": "105",
+            "image": "dataset/val/polyps/105.tif",
+            "masks": "dataset/val/masks/105.tif"
+        },
+        {
+            "id": "6",
+            "image": "dataset/val/polyps/6.tif",
+            "masks": "dataset/val/masks/6.tif"
+        },
+        {
+            "id": "99",
+            "image": "dataset/val/polyps/99.tif",
+            "masks": "dataset/val/masks/99.tif"
+        },
+        {
+            "id": "62",
+            "image": "dataset/val/polyps/62.tif",
+            "masks": "dataset/val/masks/62.tif"
+        },
+        {
+            "id": "85",
+            "image": "dataset/val/polyps/85.tif",
+            "masks": "dataset/val/masks/85.tif"
+        },
+        {
+            "id": "61",
+            "image": "dataset/val/polyps/61.tif",
+            "masks": "dataset/val/masks/61.tif"
+        },
+        {
+            "id": "75",
+            "image": "dataset/val/polyps/75.tif",
+            "masks": "dataset/val/masks/75.tif"
+        },
+        {
+            "id": "38",
+            "image": "dataset/val/polyps/38.tif",
+            "masks": "dataset/val/masks/38.tif"
+        },
+        {
+            "id": "33",
+            "image": "dataset/val/polyps/33.tif",
+            "masks": "dataset/val/masks/33.tif"
+        },
+        {
+            "id": "101",
+            "image": "dataset/val/polyps/101.tif",
+            "masks": "dataset/val/masks/101.tif"
+        },
+        {
+            "id": "37",
+            "image": "dataset/val/polyps/37.tif",
+            "masks": "dataset/val/masks/37.tif"
+        },
+        {
+            "id": "34",
+            "image": "dataset/val/polyps/34.tif",
+            "masks": "dataset/val/masks/34.tif"
+        },
+        {
+            "id": "45",
+            "image": "dataset/val/polyps/45.tif",
+            "masks": "dataset/val/masks/45.tif"
+        },
+        {
+            "id": "73",
+            "image": "dataset/val/polyps/73.tif",
+            "masks": "dataset/val/masks/73.tif"
+        },
+        {
+            "id": "47",
+            "image": "dataset/val/polyps/47.tif",
+            "masks": "dataset/val/masks/47.tif"
+        },
+        {
+            "id": "3",
+            "image": "dataset/val/polyps/3.tif",
+            "masks": "dataset/val/masks/3.tif"
+        },
+        {
+            "id": "92",
+            "image": "dataset/val/polyps/92.tif",
+            "masks": "dataset/val/masks/92.tif"
+        },
+        {
+            "id": "68",
+            "image": "dataset/val/polyps/68.tif",
+            "masks": "dataset/val/masks/68.tif"
+        },
+        {
+            "id": "94",
+            "image": "dataset/val/polyps/94.tif",
+            "masks": "dataset/val/masks/94.tif"
+        },
+        {
+            "id": "88",
+            "image": "dataset/val/polyps/88.tif",
+            "masks": "dataset/val/masks/88.tif"
+        },
+        {
+            "id": "17",
+            "image": "dataset/val/polyps/17.tif",
+            "masks": "dataset/val/masks/17.tif"
+        },
+        {
+            "id": "46",
+            "image": "dataset/val/polyps/46.tif",
+            "masks": "dataset/val/masks/46.tif"
+        }
+    ]
+}
